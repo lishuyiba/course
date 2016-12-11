@@ -1,0 +1,8 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\LogToConsole\bin\Debug\LogToConsole.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\LogToConsole\bin\Debug\LogToConsole.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\LogToConsole\obj\Debug\LogToConsole.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\LogToConsole\obj\Debug\LogToConsole.pdb
+D:\CSharp学习\传智播客2012学习\LogToConsole\bin\Debug\LogToConsole.dll
+D:\CSharp学习\传智播客2012学习\LogToConsole\bin\Debug\LogToConsole.pdb
+D:\CSharp学习\传智播客2012学习\LogToConsole\obj\Debug\LogToConsole.dll
+D:\CSharp学习\传智播客2012学习\LogToConsole\obj\Debug\LogToConsole.pdb

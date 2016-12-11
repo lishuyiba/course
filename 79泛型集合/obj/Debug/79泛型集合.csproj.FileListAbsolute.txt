@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\79泛型集合\bin\Debug\79泛型集合.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\79泛型集合\bin\Debug\79泛型集合.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\79泛型集合\bin\Debug\79泛型集合.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\79泛型集合\obj\Debug\79泛型集合.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\79泛型集合\obj\Debug\79泛型集合.pdb
+D:\CSharp学习\传智播客2012学习\79泛型集合\bin\Debug\79泛型集合.exe.config
+D:\CSharp学习\传智播客2012学习\79泛型集合\bin\Debug\79泛型集合.exe
+D:\CSharp学习\传智播客2012学习\79泛型集合\bin\Debug\79泛型集合.pdb
+D:\CSharp学习\传智播客2012学习\79泛型集合\obj\Debug\79泛型集合.exe
+D:\CSharp学习\传智播客2012学习\79泛型集合\obj\Debug\79泛型集合.pdb

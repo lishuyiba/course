@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<itcast>
+  <itcastNet>
+    <net0405>
+      <student id="cz001">
+        <name>张三</name>
+        <age>18</age>
+        <gender>Male</gender>
+        </student>
+      <student id="cz002">
+        <name>李四</name>
+        <age>19</age>
+        <gender>Female</gender>
+        </student>      
+      </net0405>
+    <netHeiMa>
+      <student id="hm001">
+        <name>杨廉壬</name>
+        <age>20</age>
+        <gender>Male</gender>
+        </student>
+      <student id="hm002">
+        <name>何圣东</name>
+        <age>10</age>
+        <gender>Male</gender>
+        </student>
+    </netHeiMa>
+    </itcastNet>
+  </itcast>

@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\45使用接口案例\bin\Debug\45使用接口案例.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\45使用接口案例\bin\Debug\45使用接口案例.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\45使用接口案例\bin\Debug\45使用接口案例.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\45使用接口案例\obj\Debug\45使用接口案例.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\45使用接口案例\obj\Debug\45使用接口案例.pdb
+D:\CSharp学习\传智播客2012学习\45使用接口案例\bin\Debug\45使用接口案例.exe.config
+D:\CSharp学习\传智播客2012学习\45使用接口案例\bin\Debug\45使用接口案例.exe
+D:\CSharp学习\传智播客2012学习\45使用接口案例\bin\Debug\45使用接口案例.pdb
+D:\CSharp学习\传智播客2012学习\45使用接口案例\obj\Debug\45使用接口案例.exe
+D:\CSharp学习\传智播客2012学习\45使用接口案例\obj\Debug\45使用接口案例.pdb

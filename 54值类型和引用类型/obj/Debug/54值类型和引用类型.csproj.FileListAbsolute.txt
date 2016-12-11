@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\54值类型和引用类型\bin\Debug\54值类型和引用类型.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\54值类型和引用类型\bin\Debug\54值类型和引用类型.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\54值类型和引用类型\bin\Debug\54值类型和引用类型.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\54值类型和引用类型\obj\Debug\54值类型和引用类型.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\54值类型和引用类型\obj\Debug\54值类型和引用类型.pdb
+D:\CSharp学习\传智播客2012学习\54值类型和引用类型\bin\Debug\54值类型和引用类型.exe.config
+D:\CSharp学习\传智播客2012学习\54值类型和引用类型\bin\Debug\54值类型和引用类型.exe
+D:\CSharp学习\传智播客2012学习\54值类型和引用类型\bin\Debug\54值类型和引用类型.pdb
+D:\CSharp学习\传智播客2012学习\54值类型和引用类型\obj\Debug\54值类型和引用类型.exe
+D:\CSharp学习\传智播客2012学习\54值类型和引用类型\obj\Debug\54值类型和引用类型.pdb

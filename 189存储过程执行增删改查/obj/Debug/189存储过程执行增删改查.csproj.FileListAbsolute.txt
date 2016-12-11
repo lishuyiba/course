@@ -1,0 +1,18 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\189存储过程执行增删改查\bin\Debug\189存储过程执行增删改查.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\189存储过程执行增删改查\bin\Debug\189存储过程执行增删改查.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\189存储过程执行增删改查\bin\Debug\189存储过程执行增删改查.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\189存储过程执行增删改查\obj\Debug\189存储过程执行增删改查.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\189存储过程执行增删改查\obj\Debug\_189存储过程执行增删改查.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\189存储过程执行增删改查\obj\Debug\_189存储过程执行增删改查.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\189存储过程执行增删改查\obj\Debug\189存储过程执行增删改查.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\189存储过程执行增删改查\obj\Debug\189存储过程执行增删改查.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\189存储过程执行增删改查\obj\Debug\189存储过程执行增删改查.pdb
+D:\CSharp学习\传智播客2012学习\189存储过程执行增删改查\bin\Debug\189存储过程执行增删改查.exe.config
+D:\CSharp学习\传智播客2012学习\189存储过程执行增删改查\bin\Debug\189存储过程执行增删改查.exe
+D:\CSharp学习\传智播客2012学习\189存储过程执行增删改查\bin\Debug\189存储过程执行增删改查.pdb
+D:\CSharp学习\传智播客2012学习\189存储过程执行增删改查\obj\Debug\189存储过程执行增删改查.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\189存储过程执行增删改查\obj\Debug\_189存储过程执行增删改查.Form1.resources
+D:\CSharp学习\传智播客2012学习\189存储过程执行增删改查\obj\Debug\_189存储过程执行增删改查.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\189存储过程执行增删改查\obj\Debug\189存储过程执行增删改查.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\189存储过程执行增删改查\obj\Debug\189存储过程执行增删改查.exe
+D:\CSharp学习\传智播客2012学习\189存储过程执行增删改查\obj\Debug\189存储过程执行增删改查.pdb

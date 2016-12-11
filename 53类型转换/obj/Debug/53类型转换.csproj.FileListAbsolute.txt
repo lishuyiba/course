@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\53类型转换\bin\Debug\53类型转换.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\53类型转换\bin\Debug\53类型转换.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\53类型转换\bin\Debug\53类型转换.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\53类型转换\obj\Debug\53类型转换.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\53类型转换\obj\Debug\53类型转换.pdb
+D:\CSharp学习\传智播客2012学习\53类型转换\bin\Debug\53类型转换.exe.config
+D:\CSharp学习\传智播客2012学习\53类型转换\bin\Debug\53类型转换.exe
+D:\CSharp学习\传智播客2012学习\53类型转换\bin\Debug\53类型转换.pdb
+D:\CSharp学习\传智播客2012学习\53类型转换\obj\Debug\53类型转换.exe
+D:\CSharp学习\传智播客2012学习\53类型转换\obj\Debug\53类型转换.pdb

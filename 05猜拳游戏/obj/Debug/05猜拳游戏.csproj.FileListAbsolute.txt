@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\05猜拳游戏\bin\Debug\05猜拳游戏.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\05猜拳游戏\bin\Debug\05猜拳游戏.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\05猜拳游戏\bin\Debug\05猜拳游戏.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\05猜拳游戏\obj\Debug\_05猜拳游戏.CaiQuan.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\05猜拳游戏\obj\Debug\_05猜拳游戏.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\05猜拳游戏\obj\Debug\05猜拳游戏.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\05猜拳游戏\obj\Debug\05猜拳游戏.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\05猜拳游戏\obj\Debug\05猜拳游戏.pdb
+D:\CSharp学习\传智播客2012学习\05猜拳游戏\bin\Debug\05猜拳游戏.exe.config
+D:\CSharp学习\传智播客2012学习\05猜拳游戏\bin\Debug\05猜拳游戏.exe
+D:\CSharp学习\传智播客2012学习\05猜拳游戏\bin\Debug\05猜拳游戏.pdb
+D:\CSharp学习\传智播客2012学习\05猜拳游戏\obj\Debug\_05猜拳游戏.CaiQuan.resources
+D:\CSharp学习\传智播客2012学习\05猜拳游戏\obj\Debug\_05猜拳游戏.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\05猜拳游戏\obj\Debug\05猜拳游戏.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\05猜拳游戏\obj\Debug\05猜拳游戏.exe
+D:\CSharp学习\传智播客2012学习\05猜拳游戏\obj\Debug\05猜拳游戏.pdb

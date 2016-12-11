@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\15internal访问修饰符\bin\Debug\15internal访问修饰符.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\15internal访问修饰符\bin\Debug\15internal访问修饰符.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\15internal访问修饰符\bin\Debug\15internal访问修饰符.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\15internal访问修饰符\bin\Debug\14访问修饰符.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\15internal访问修饰符\bin\Debug\14访问修饰符.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\15internal访问修饰符\obj\Debug\15internal访问修饰符.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\15internal访问修饰符\obj\Debug\15internal访问修饰符.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\15internal访问修饰符\obj\Debug\15internal访问修饰符.pdb
+D:\CSharp学习\传智播客2012学习\15internal访问修饰符\bin\Debug\15internal访问修饰符.exe.config
+D:\CSharp学习\传智播客2012学习\15internal访问修饰符\bin\Debug\15internal访问修饰符.exe
+D:\CSharp学习\传智播客2012学习\15internal访问修饰符\bin\Debug\15internal访问修饰符.pdb
+D:\CSharp学习\传智播客2012学习\15internal访问修饰符\bin\Debug\14访问修饰符.exe
+D:\CSharp学习\传智播客2012学习\15internal访问修饰符\bin\Debug\14访问修饰符.pdb
+D:\CSharp学习\传智播客2012学习\15internal访问修饰符\obj\Debug\15internal访问修饰符.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\15internal访问修饰符\obj\Debug\15internal访问修饰符.exe
+D:\CSharp学习\传智播客2012学习\15internal访问修饰符\obj\Debug\15internal访问修饰符.pdb

@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\129敏感词过滤\bin\Debug\129敏感词过滤.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\129敏感词过滤\bin\Debug\129敏感词过滤.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\129敏感词过滤\bin\Debug\129敏感词过滤.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\129敏感词过滤\obj\Debug\129敏感词过滤.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\129敏感词过滤\obj\Debug\129敏感词过滤.pdb
+D:\CSharp学习\传智播客2012学习\129敏感词过滤\bin\Debug\129敏感词过滤.exe.config
+D:\CSharp学习\传智播客2012学习\129敏感词过滤\bin\Debug\129敏感词过滤.exe
+D:\CSharp学习\传智播客2012学习\129敏感词过滤\bin\Debug\129敏感词过滤.pdb
+D:\CSharp学习\传智播客2012学习\129敏感词过滤\obj\Debug\129敏感词过滤.exe
+D:\CSharp学习\传智播客2012学习\129敏感词过滤\obj\Debug\129敏感词过滤.pdb

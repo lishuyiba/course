@@ -1,0 +1,5 @@
+D:\CSharp学习\传智播客2012学习\202关于sp_reset_connection存储过程\bin\Debug\202关于sp_reset_connection存储过程.exe.config
+D:\CSharp学习\传智播客2012学习\202关于sp_reset_connection存储过程\bin\Debug\202关于sp_reset_connection存储过程.exe
+D:\CSharp学习\传智播客2012学习\202关于sp_reset_connection存储过程\bin\Debug\202关于sp_reset_connection存储过程.pdb
+D:\CSharp学习\传智播客2012学习\202关于sp_reset_connection存储过程\obj\Debug\202关于sp_reset_connection存储过程.exe
+D:\CSharp学习\传智播客2012学习\202关于sp_reset_connection存储过程\obj\Debug\202关于sp_reset_connection存储过程.pdb

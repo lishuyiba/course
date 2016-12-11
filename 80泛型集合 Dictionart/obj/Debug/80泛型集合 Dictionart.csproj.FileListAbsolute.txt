@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\80泛型集合 Dictionart\bin\Debug\80泛型集合 Dictionart.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\80泛型集合 Dictionart\bin\Debug\80泛型集合 Dictionart.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\80泛型集合 Dictionart\bin\Debug\80泛型集合 Dictionart.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\80泛型集合 Dictionart\obj\Debug\80泛型集合 Dictionart.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\80泛型集合 Dictionart\obj\Debug\80泛型集合 Dictionart.pdb
+D:\CSharp学习\传智播客2012学习\80泛型集合 Dictionart\bin\Debug\80泛型集合 Dictionart.exe.config
+D:\CSharp学习\传智播客2012学习\80泛型集合 Dictionart\bin\Debug\80泛型集合 Dictionart.exe
+D:\CSharp学习\传智播客2012学习\80泛型集合 Dictionart\bin\Debug\80泛型集合 Dictionart.pdb
+D:\CSharp学习\传智播客2012学习\80泛型集合 Dictionart\obj\Debug\80泛型集合 Dictionart.exe
+D:\CSharp学习\传智播客2012学习\80泛型集合 Dictionart\obj\Debug\80泛型集合 Dictionart.pdb

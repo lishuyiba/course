@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\166Command对象的使用（insert、delete、update）\bin\Debug\166Command对象的使用（insert、delete、update）.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\166Command对象的使用（insert、delete、update）\bin\Debug\166Command对象的使用（insert、delete、update）.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\166Command对象的使用（insert、delete、update）\bin\Debug\166Command对象的使用（insert、delete、update）.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\166Command对象的使用（insert、delete、update）\obj\Debug\_166Command对象的使用_insert_delete_update_.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\166Command对象的使用（insert、delete、update）\obj\Debug\_166Command对象的使用_insert_delete_update_.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\166Command对象的使用（insert、delete、update）\obj\Debug\166Command对象的使用（insert、delete、update）.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\166Command对象的使用（insert、delete、update）\obj\Debug\166Command对象的使用（insert、delete、update）.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\166Command对象的使用（insert、delete、update）\obj\Debug\166Command对象的使用（insert、delete、update）.pdb
+D:\CSharp学习\传智播客2012学习\166Command对象的使用（insert、delete、update）\bin\Debug\166Command对象的使用（insert、delete、update）.exe.config
+D:\CSharp学习\传智播客2012学习\166Command对象的使用（insert、delete、update）\bin\Debug\166Command对象的使用（insert、delete、update）.exe
+D:\CSharp学习\传智播客2012学习\166Command对象的使用（insert、delete、update）\bin\Debug\166Command对象的使用（insert、delete、update）.pdb
+D:\CSharp学习\传智播客2012学习\166Command对象的使用（insert、delete、update）\obj\Debug\_166Command对象的使用_insert_delete_update_.Form1.resources
+D:\CSharp学习\传智播客2012学习\166Command对象的使用（insert、delete、update）\obj\Debug\_166Command对象的使用_insert_delete_update_.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\166Command对象的使用（insert、delete、update）\obj\Debug\166Command对象的使用（insert、delete、update）.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\166Command对象的使用（insert、delete、update）\obj\Debug\166Command对象的使用（insert、delete、update）.exe
+D:\CSharp学习\传智播客2012学习\166Command对象的使用（insert、delete、update）\obj\Debug\166Command对象的使用（insert、delete、update）.pdb

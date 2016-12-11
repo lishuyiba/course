@@ -1,0 +1,11 @@
+D:\CSharp学习\传智播客2012学习\199数据导出\bin\Debug\199数据导出.exe.config
+D:\CSharp学习\传智播客2012学习\199数据导出\bin\Debug\199数据导出.exe
+D:\CSharp学习\传智播客2012学习\199数据导出\bin\Debug\199数据导出.pdb
+D:\CSharp学习\传智播客2012学习\199数据导出\bin\Debug\Ionic.Zip.dll
+D:\CSharp学习\传智播客2012学习\199数据导出\bin\Debug\NPOI.dll
+D:\CSharp学习\传智播客2012学习\199数据导出\obj\Debug\199数据导出.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\199数据导出\obj\Debug\_199数据导出.Form1.resources
+D:\CSharp学习\传智播客2012学习\199数据导出\obj\Debug\_199数据导出.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\199数据导出\obj\Debug\199数据导出.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\199数据导出\obj\Debug\199数据导出.exe
+D:\CSharp学习\传智播客2012学习\199数据导出\obj\Debug\199数据导出.pdb

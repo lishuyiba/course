@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\23静态成员静态类\bin\Debug\23静态成员静态类.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\23静态成员静态类\bin\Debug\23静态成员静态类.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\23静态成员静态类\bin\Debug\23静态成员静态类.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\23静态成员静态类\obj\Debug\23静态成员静态类.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\23静态成员静态类\obj\Debug\23静态成员静态类.pdb
+D:\CSharp学习\传智播客2012学习\23静态成员静态类\bin\Debug\23静态成员静态类.exe.config
+D:\CSharp学习\传智播客2012学习\23静态成员静态类\bin\Debug\23静态成员静态类.exe
+D:\CSharp学习\传智播客2012学习\23静态成员静态类\bin\Debug\23静态成员静态类.pdb
+D:\CSharp学习\传智播客2012学习\23静态成员静态类\obj\Debug\23静态成员静态类.exe
+D:\CSharp学习\传智播客2012学习\23静态成员静态类\obj\Debug\23静态成员静态类.pdb

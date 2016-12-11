@@ -1,0 +1,22 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\记事本主程序\bin\Debug\记事本主程序.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\记事本主程序\bin\Debug\记事本主程序.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\记事本主程序\bin\Debug\记事本主程序.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\记事本主程序\obj\Debug\记事本主程序.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\记事本主程序\obj\Debug\记事本主程序.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\记事本主程序\obj\Debug\记事本主程序.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\记事本主程序\obj\Debug\记事本主程序.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\记事本主程序\obj\Debug\记事本主程序.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\记事本主程序\obj\Debug\记事本主程序.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\记事本主程序\bin\Debug\ExtEditorInterface.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\记事本主程序\bin\Debug\ExtEditorInterface.pdb
+D:\CSharp学习\传智播客2012学习\记事本主程序\bin\Debug\记事本主程序.exe.config
+D:\CSharp学习\传智播客2012学习\记事本主程序\obj\Debug\记事本主程序.exe
+D:\CSharp学习\传智播客2012学习\记事本主程序\obj\Debug\记事本主程序.pdb
+D:\CSharp学习\传智播客2012学习\记事本主程序\bin\Debug\记事本主程序.exe
+D:\CSharp学习\传智播客2012学习\记事本主程序\bin\Debug\记事本主程序.pdb
+D:\CSharp学习\传智播客2012学习\记事本主程序\bin\Debug\ExtEditorInterface.dll
+D:\CSharp学习\传智播客2012学习\记事本主程序\bin\Debug\ExtEditorInterface.pdb
+D:\CSharp学习\传智播客2012学习\记事本主程序\obj\Debug\记事本主程序.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\记事本主程序\obj\Debug\记事本主程序.Form1.resources
+D:\CSharp学习\传智播客2012学习\记事本主程序\obj\Debug\记事本主程序.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\记事本主程序\obj\Debug\记事本主程序.csproj.GenerateResource.Cache

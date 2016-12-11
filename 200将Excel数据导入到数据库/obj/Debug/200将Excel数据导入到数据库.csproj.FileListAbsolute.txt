@@ -1,0 +1,12 @@
+D:\C#学习\传智播客2012学习\200将Excel数据导入到数据库\bin\Debug\200将Excel数据导入到数据库.exe.config
+D:\CSharp学习\传智播客2012学习\200将Excel数据导入到数据库\bin\Debug\200将Excel数据导入到数据库.exe.config
+D:\CSharp学习\传智播客2012学习\200将Excel数据导入到数据库\bin\Debug\200将Excel数据导入到数据库.exe
+D:\CSharp学习\传智播客2012学习\200将Excel数据导入到数据库\bin\Debug\200将Excel数据导入到数据库.pdb
+D:\CSharp学习\传智播客2012学习\200将Excel数据导入到数据库\bin\Debug\Ionic.Zip.dll
+D:\CSharp学习\传智播客2012学习\200将Excel数据导入到数据库\bin\Debug\NPOI.dll
+D:\CSharp学习\传智播客2012学习\200将Excel数据导入到数据库\obj\Debug\200将Excel数据导入到数据库.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\200将Excel数据导入到数据库\obj\Debug\_200将Excel数据导入到数据库.Form1.resources
+D:\CSharp学习\传智播客2012学习\200将Excel数据导入到数据库\obj\Debug\_200将Excel数据导入到数据库.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\200将Excel数据导入到数据库\obj\Debug\200将Excel数据导入到数据库.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\200将Excel数据导入到数据库\obj\Debug\200将Excel数据导入到数据库.exe
+D:\CSharp学习\传智播客2012学习\200将Excel数据导入到数据库\obj\Debug\200将Excel数据导入到数据库.pdb

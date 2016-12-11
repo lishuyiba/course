@@ -1,0 +1,8 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\clsLib2\bin\Debug\clsLib2.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\clsLib2\bin\Debug\clsLib2.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\clsLib2\obj\Debug\clsLib2.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\clsLib2\obj\Debug\clsLib2.pdb
+D:\CSharp学习\传智播客2012学习\clsLib2\bin\Debug\clsLib2.dll
+D:\CSharp学习\传智播客2012学习\clsLib2\bin\Debug\clsLib2.pdb
+D:\CSharp学习\传智播客2012学习\clsLib2\obj\Debug\clsLib2.dll
+D:\CSharp学习\传智播客2012学习\clsLib2\obj\Debug\clsLib2.pdb

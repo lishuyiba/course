@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\173IsDBNull判断列是否为空\bin\Debug\173IsDBNull判断列是否为空.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\173IsDBNull判断列是否为空\bin\Debug\173IsDBNull判断列是否为空.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\173IsDBNull判断列是否为空\bin\Debug\173IsDBNull判断列是否为空.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\173IsDBNull判断列是否为空\obj\Debug\173IsDBNull判断列是否为空.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\173IsDBNull判断列是否为空\obj\Debug\173IsDBNull判断列是否为空.pdb
+D:\CSharp学习\传智播客2012学习\173IsDBNull判断列是否为空\bin\Debug\173IsDBNull判断列是否为空.exe.config
+D:\CSharp学习\传智播客2012学习\173IsDBNull判断列是否为空\bin\Debug\173IsDBNull判断列是否为空.exe
+D:\CSharp学习\传智播客2012学习\173IsDBNull判断列是否为空\bin\Debug\173IsDBNull判断列是否为空.pdb
+D:\CSharp学习\传智播客2012学习\173IsDBNull判断列是否为空\obj\Debug\173IsDBNull判断列是否为空.exe
+D:\CSharp学习\传智播客2012学习\173IsDBNull判断列是否为空\obj\Debug\173IsDBNull判断列是否为空.pdb

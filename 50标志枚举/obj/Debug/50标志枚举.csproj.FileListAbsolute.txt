@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\50标志枚举\bin\Debug\50标志枚举.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\50标志枚举\bin\Debug\50标志枚举.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\50标志枚举\bin\Debug\50标志枚举.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\50标志枚举\obj\Debug\50标志枚举.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\50标志枚举\obj\Debug\50标志枚举.pdb
+D:\CSharp学习\传智播客2012学习\50标志枚举\bin\Debug\50标志枚举.exe.config
+D:\CSharp学习\传智播客2012学习\50标志枚举\bin\Debug\50标志枚举.exe
+D:\CSharp学习\传智播客2012学习\50标志枚举\bin\Debug\50标志枚举.pdb
+D:\CSharp学习\传智播客2012学习\50标志枚举\obj\Debug\50标志枚举.exe
+D:\CSharp学习\传智播客2012学习\50标志枚举\obj\Debug\50标志枚举.pdb

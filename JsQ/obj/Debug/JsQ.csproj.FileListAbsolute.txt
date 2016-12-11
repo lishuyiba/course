@@ -1,0 +1,5 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\JsQ\bin\Debug\JsQ.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\JsQ\bin\Debug\JsQ.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\JsQ\obj\Debug\JsQ.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\JsQ\obj\Debug\JsQ.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\JsQ\obj\Debug\JsQ.csprojResolveAssemblyReference.cache

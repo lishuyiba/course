@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\66字符串的一些方法和属性\bin\Debug\66字符串的一些方法和属性.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\66字符串的一些方法和属性\bin\Debug\66字符串的一些方法和属性.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\66字符串的一些方法和属性\bin\Debug\66字符串的一些方法和属性.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\66字符串的一些方法和属性\obj\Debug\66字符串的一些方法和属性.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\66字符串的一些方法和属性\obj\Debug\66字符串的一些方法和属性.pdb
+D:\CSharp学习\传智播客2012学习\66字符串的一些方法和属性\bin\Debug\66字符串的一些方法和属性.exe.config
+D:\CSharp学习\传智播客2012学习\66字符串的一些方法和属性\bin\Debug\66字符串的一些方法和属性.exe
+D:\CSharp学习\传智播客2012学习\66字符串的一些方法和属性\bin\Debug\66字符串的一些方法和属性.pdb
+D:\CSharp学习\传智播客2012学习\66字符串的一些方法和属性\obj\Debug\66字符串的一些方法和属性.exe
+D:\CSharp学习\传智播客2012学习\66字符串的一些方法和属性\obj\Debug\66字符串的一些方法和属性.pdb

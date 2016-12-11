@@ -1,0 +1,18 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\158Attibute特性、标记\bin\Debug\158Attibute特性、标记.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\158Attibute特性、标记\bin\Debug\158Attibute特性、标记.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\158Attibute特性、标记\bin\Debug\158Attibute特性、标记.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\158Attibute特性、标记\obj\Debug\_158Attibute特性_标记.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\158Attibute特性、标记\obj\Debug\_158Attibute特性_标记.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\158Attibute特性、标记\obj\Debug\158Attibute特性、标记.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\158Attibute特性、标记\obj\Debug\158Attibute特性、标记.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\158Attibute特性、标记\obj\Debug\158Attibute特性、标记.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\158Attibute特性、标记\obj\Debug\_158Attibute特性_标记.UserControl1.resources
+D:\CSharp学习\传智播客2012学习\158Attibute特性、标记\bin\Debug\158Attibute特性、标记.exe.config
+D:\CSharp学习\传智播客2012学习\158Attibute特性、标记\bin\Debug\158Attibute特性、标记.exe
+D:\CSharp学习\传智播客2012学习\158Attibute特性、标记\bin\Debug\158Attibute特性、标记.pdb
+D:\CSharp学习\传智播客2012学习\158Attibute特性、标记\obj\Debug\_158Attibute特性_标记.Form1.resources
+D:\CSharp学习\传智播客2012学习\158Attibute特性、标记\obj\Debug\_158Attibute特性_标记.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\158Attibute特性、标记\obj\Debug\_158Attibute特性_标记.UserControl1.resources
+D:\CSharp学习\传智播客2012学习\158Attibute特性、标记\obj\Debug\158Attibute特性、标记.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\158Attibute特性、标记\obj\Debug\158Attibute特性、标记.exe
+D:\CSharp学习\传智播客2012学习\158Attibute特性、标记\obj\Debug\158Attibute特性、标记.pdb

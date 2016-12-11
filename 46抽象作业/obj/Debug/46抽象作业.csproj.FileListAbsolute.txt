@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\46抽象作业\bin\Debug\46抽象作业.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\46抽象作业\bin\Debug\46抽象作业.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\46抽象作业\bin\Debug\46抽象作业.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\46抽象作业\obj\Debug\46抽象作业.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\46抽象作业\obj\Debug\46抽象作业.pdb
+D:\CSharp学习\传智播客2012学习\46抽象作业\bin\Debug\46抽象作业.exe.config
+D:\CSharp学习\传智播客2012学习\46抽象作业\bin\Debug\46抽象作业.exe
+D:\CSharp学习\传智播客2012学习\46抽象作业\bin\Debug\46抽象作业.pdb
+D:\CSharp学习\传智播客2012学习\46抽象作业\obj\Debug\46抽象作业.exe
+D:\CSharp学习\传智播客2012学习\46抽象作业\obj\Debug\46抽象作业.pdb

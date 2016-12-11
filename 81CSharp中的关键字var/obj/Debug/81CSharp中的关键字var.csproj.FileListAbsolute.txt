@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\81CSharp中的关键字var\bin\Debug\81CSharp中的关键字var.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\81CSharp中的关键字var\bin\Debug\81CSharp中的关键字var.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\81CSharp中的关键字var\bin\Debug\81CSharp中的关键字var.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\81CSharp中的关键字var\obj\Debug\81CSharp中的关键字var.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\81CSharp中的关键字var\obj\Debug\81CSharp中的关键字var.pdb
+D:\CSharp学习\传智播客2012学习\81CSharp中的关键字var\bin\Debug\81CSharp中的关键字var.exe.config
+D:\CSharp学习\传智播客2012学习\81CSharp中的关键字var\bin\Debug\81CSharp中的关键字var.exe
+D:\CSharp学习\传智播客2012学习\81CSharp中的关键字var\bin\Debug\81CSharp中的关键字var.pdb
+D:\CSharp学习\传智播客2012学习\81CSharp中的关键字var\obj\Debug\81CSharp中的关键字var.exe
+D:\CSharp学习\传智播客2012学习\81CSharp中的关键字var\obj\Debug\81CSharp中的关键字var.pdb

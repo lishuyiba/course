@@ -1,0 +1,8 @@
+D:\C#学习\传智播客2012学习\221话术搜索Model\bin\Debug\221话术搜索Model.dll
+D:\C#学习\传智播客2012学习\221话术搜索Model\bin\Debug\221话术搜索Model.pdb
+D:\C#学习\传智播客2012学习\221话术搜索Model\obj\Debug\221话术搜索Model.dll
+D:\C#学习\传智播客2012学习\221话术搜索Model\obj\Debug\221话术搜索Model.pdb
+D:\CSharp学习\传智播客2012学习\221话术搜索Model\bin\Debug\221话术搜索Model.dll
+D:\CSharp学习\传智播客2012学习\221话术搜索Model\bin\Debug\221话术搜索Model.pdb
+D:\CSharp学习\传智播客2012学习\221话术搜索Model\obj\Debug\221话术搜索Model.dll
+D:\CSharp学习\传智播客2012学习\221话术搜索Model\obj\Debug\221话术搜索Model.pdb

@@ -1,0 +1,8 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\LogToText\bin\Debug\LogToText.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\LogToText\bin\Debug\LogToText.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\LogToText\obj\Debug\LogToText.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\LogToText\obj\Debug\LogToText.pdb
+D:\CSharp学习\传智播客2012学习\LogToText\bin\Debug\LogToText.dll
+D:\CSharp学习\传智播客2012学习\LogToText\bin\Debug\LogToText.pdb
+D:\CSharp学习\传智播客2012学习\LogToText\obj\Debug\LogToText.dll
+D:\CSharp学习\传智播客2012学习\LogToText\obj\Debug\LogToText.pdb

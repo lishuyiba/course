@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\105大文件拷贝\bin\Debug\105大文件拷贝.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\105大文件拷贝\bin\Debug\105大文件拷贝.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\105大文件拷贝\bin\Debug\105大文件拷贝.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\105大文件拷贝\obj\Debug\105大文件拷贝.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\105大文件拷贝\obj\Debug\105大文件拷贝.pdb
+D:\CSharp学习\传智播客2012学习\105大文件拷贝\bin\Debug\105大文件拷贝.exe.config
+D:\CSharp学习\传智播客2012学习\105大文件拷贝\bin\Debug\105大文件拷贝.exe
+D:\CSharp学习\传智播客2012学习\105大文件拷贝\bin\Debug\105大文件拷贝.pdb
+D:\CSharp学习\传智播客2012学习\105大文件拷贝\obj\Debug\105大文件拷贝.exe
+D:\CSharp学习\传智播客2012学习\105大文件拷贝\obj\Debug\105大文件拷贝.pdb

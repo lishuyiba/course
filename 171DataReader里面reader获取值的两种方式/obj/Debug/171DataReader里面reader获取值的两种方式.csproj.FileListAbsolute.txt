@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\171DataReader里面reader获取值的两种方式\bin\Debug\171DataReader里面reader获取值的两种方式.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\171DataReader里面reader获取值的两种方式\bin\Debug\171DataReader里面reader获取值的两种方式.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\171DataReader里面reader获取值的两种方式\bin\Debug\171DataReader里面reader获取值的两种方式.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\171DataReader里面reader获取值的两种方式\obj\Debug\171DataReader里面reader获取值的两种方式.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\171DataReader里面reader获取值的两种方式\obj\Debug\171DataReader里面reader获取值的两种方式.pdb
+D:\CSharp学习\传智播客2012学习\171DataReader里面reader获取值的两种方式\bin\Debug\171DataReader里面reader获取值的两种方式.exe.config
+D:\CSharp学习\传智播客2012学习\171DataReader里面reader获取值的两种方式\bin\Debug\171DataReader里面reader获取值的两种方式.exe
+D:\CSharp学习\传智播客2012学习\171DataReader里面reader获取值的两种方式\bin\Debug\171DataReader里面reader获取值的两种方式.pdb
+D:\CSharp学习\传智播客2012学习\171DataReader里面reader获取值的两种方式\obj\Debug\171DataReader里面reader获取值的两种方式.exe
+D:\CSharp学习\传智播客2012学习\171DataReader里面reader获取值的两种方式\obj\Debug\171DataReader里面reader获取值的两种方式.pdb

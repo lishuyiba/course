@@ -1,0 +1,17 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\69通过StringBuider拼接字符串\bin\Debug\69通过StringBuider拼接字符串.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\69通过StringBuider拼接字符串\bin\Debug\69通过StringBuider拼接字符串.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\69通过StringBuider拼接字符串\bin\Debug\69通过StringBuider拼接字符串.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\69通过StringBuider拼接字符串\obj\Debug\_69通过StringBuider拼接字符串.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\69通过StringBuider拼接字符串\obj\Debug\_69通过StringBuider拼接字符串.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\69通过StringBuider拼接字符串\obj\Debug\69通过StringBuider拼接字符串.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\69通过StringBuider拼接字符串\obj\Debug\69通过StringBuider拼接字符串.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\69通过StringBuider拼接字符串\obj\Debug\69通过StringBuider拼接字符串.pdb
+D:\CSharp学习\传智播客2012学习\69通过StringBuider拼接字符串\bin\Debug\69通过StringBuider拼接字符串.exe.config
+D:\CSharp学习\传智播客2012学习\69通过StringBuider拼接字符串\bin\Debug\69通过StringBuider拼接字符串.exe
+D:\CSharp学习\传智播客2012学习\69通过StringBuider拼接字符串\bin\Debug\69通过StringBuider拼接字符串.pdb
+D:\CSharp学习\传智播客2012学习\69通过StringBuider拼接字符串\obj\Debug\69通过StringBuider拼接字符串.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\69通过StringBuider拼接字符串\obj\Debug\_69通过StringBuider拼接字符串.Form1.resources
+D:\CSharp学习\传智播客2012学习\69通过StringBuider拼接字符串\obj\Debug\_69通过StringBuider拼接字符串.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\69通过StringBuider拼接字符串\obj\Debug\69通过StringBuider拼接字符串.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\69通过StringBuider拼接字符串\obj\Debug\69通过StringBuider拼接字符串.exe
+D:\CSharp学习\传智播客2012学习\69通过StringBuider拼接字符串\obj\Debug\69通过StringBuider拼接字符串.pdb

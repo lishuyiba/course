@@ -1,0 +1,12 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\194SqlHelper引发异常信息\bin\Debug\194SqlHelper引发异常信息.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\194SqlHelper引发异常信息\bin\Debug\194SqlHelper引发异常信息.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\194SqlHelper引发异常信息\bin\Debug\194SqlHelper引发异常信息.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\194SqlHelper引发异常信息\obj\Debug\194SqlHelper引发异常信息.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\194SqlHelper引发异常信息\obj\Debug\194SqlHelper引发异常信息.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\194SqlHelper引发异常信息\obj\Debug\194SqlHelper引发异常信息.pdb
+D:\CSharp学习\传智播客2012学习\194SqlHelper引发异常信息\bin\Debug\194SqlHelper引发异常信息.exe.config
+D:\CSharp学习\传智播客2012学习\194SqlHelper引发异常信息\bin\Debug\194SqlHelper引发异常信息.exe
+D:\CSharp学习\传智播客2012学习\194SqlHelper引发异常信息\bin\Debug\194SqlHelper引发异常信息.pdb
+D:\CSharp学习\传智播客2012学习\194SqlHelper引发异常信息\obj\Debug\194SqlHelper引发异常信息.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\194SqlHelper引发异常信息\obj\Debug\194SqlHelper引发异常信息.exe
+D:\CSharp学习\传智播客2012学习\194SqlHelper引发异常信息\obj\Debug\194SqlHelper引发异常信息.pdb

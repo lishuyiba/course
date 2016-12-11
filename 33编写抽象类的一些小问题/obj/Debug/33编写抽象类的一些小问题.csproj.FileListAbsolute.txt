@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\33编写抽象类的一些小问题\bin\Debug\33编写抽象类的一些小问题.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\33编写抽象类的一些小问题\bin\Debug\33编写抽象类的一些小问题.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\33编写抽象类的一些小问题\bin\Debug\33编写抽象类的一些小问题.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\33编写抽象类的一些小问题\obj\Debug\33编写抽象类的一些小问题.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\33编写抽象类的一些小问题\obj\Debug\33编写抽象类的一些小问题.pdb
+D:\CSharp学习\传智播客2012学习\33编写抽象类的一些小问题\bin\Debug\33编写抽象类的一些小问题.exe.config
+D:\CSharp学习\传智播客2012学习\33编写抽象类的一些小问题\bin\Debug\33编写抽象类的一些小问题.exe
+D:\CSharp学习\传智播客2012学习\33编写抽象类的一些小问题\bin\Debug\33编写抽象类的一些小问题.pdb
+D:\CSharp学习\传智播客2012学习\33编写抽象类的一些小问题\obj\Debug\33编写抽象类的一些小问题.exe
+D:\CSharp学习\传智播客2012学习\33编写抽象类的一些小问题\obj\Debug\33编写抽象类的一些小问题.pdb

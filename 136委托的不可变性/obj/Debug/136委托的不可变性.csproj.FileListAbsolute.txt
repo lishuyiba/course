@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\136委托的不可变性\bin\Debug\136委托的不可变性.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\136委托的不可变性\bin\Debug\136委托的不可变性.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\136委托的不可变性\bin\Debug\136委托的不可变性.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\136委托的不可变性\obj\Debug\136委托的不可变性.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\136委托的不可变性\obj\Debug\136委托的不可变性.pdb
+D:\CSharp学习\传智播客2012学习\136委托的不可变性\bin\Debug\136委托的不可变性.exe.config
+D:\CSharp学习\传智播客2012学习\136委托的不可变性\bin\Debug\136委托的不可变性.exe
+D:\CSharp学习\传智播客2012学习\136委托的不可变性\bin\Debug\136委托的不可变性.pdb
+D:\CSharp学习\传智播客2012学习\136委托的不可变性\obj\Debug\136委托的不可变性.exe
+D:\CSharp学习\传智播客2012学习\136委托的不可变性\obj\Debug\136委托的不可变性.pdb

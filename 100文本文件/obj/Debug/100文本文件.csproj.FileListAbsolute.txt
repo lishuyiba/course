@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\100文本文件\bin\Debug\100文本文件.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\100文本文件\bin\Debug\100文本文件.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\100文本文件\bin\Debug\100文本文件.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\100文本文件\obj\Debug\100文本文件.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\100文本文件\obj\Debug\100文本文件.pdb
+D:\CSharp学习\传智播客2012学习\100文本文件\bin\Debug\100文本文件.exe.config
+D:\CSharp学习\传智播客2012学习\100文本文件\bin\Debug\100文本文件.exe
+D:\CSharp学习\传智播客2012学习\100文本文件\bin\Debug\100文本文件.pdb
+D:\CSharp学习\传智播客2012学习\100文本文件\obj\Debug\100文本文件.exe
+D:\CSharp学习\传智播客2012学习\100文本文件\obj\Debug\100文本文件.pdb

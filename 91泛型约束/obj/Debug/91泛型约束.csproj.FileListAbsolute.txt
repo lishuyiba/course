@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\91泛型约束\bin\Debug\91泛型约束.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\91泛型约束\bin\Debug\91泛型约束.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\91泛型约束\bin\Debug\91泛型约束.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\91泛型约束\obj\Debug\91泛型约束.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\91泛型约束\obj\Debug\91泛型约束.pdb
+D:\CSharp学习\传智播客2012学习\91泛型约束\bin\Debug\91泛型约束.exe.config
+D:\CSharp学习\传智播客2012学习\91泛型约束\bin\Debug\91泛型约束.exe
+D:\CSharp学习\传智播客2012学习\91泛型约束\bin\Debug\91泛型约束.pdb
+D:\CSharp学习\传智播客2012学习\91泛型约束\obj\Debug\91泛型约束.exe
+D:\CSharp学习\传智播客2012学习\91泛型约束\obj\Debug\91泛型约束.pdb

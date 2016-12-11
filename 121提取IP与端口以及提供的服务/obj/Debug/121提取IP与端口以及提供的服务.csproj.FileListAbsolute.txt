@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\121提取IP与端口以及提供的服务\bin\Debug\121提取IP与端口以及提供的服务.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\121提取IP与端口以及提供的服务\bin\Debug\121提取IP与端口以及提供的服务.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\121提取IP与端口以及提供的服务\bin\Debug\121提取IP与端口以及提供的服务.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\121提取IP与端口以及提供的服务\obj\Debug\121提取IP与端口以及提供的服务.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\121提取IP与端口以及提供的服务\obj\Debug\121提取IP与端口以及提供的服务.pdb
+D:\CSharp学习\传智播客2012学习\121提取IP与端口以及提供的服务\bin\Debug\121提取IP与端口以及提供的服务.exe.config
+D:\CSharp学习\传智播客2012学习\121提取IP与端口以及提供的服务\bin\Debug\121提取IP与端口以及提供的服务.exe
+D:\CSharp学习\传智播客2012学习\121提取IP与端口以及提供的服务\bin\Debug\121提取IP与端口以及提供的服务.pdb
+D:\CSharp学习\传智播客2012学习\121提取IP与端口以及提供的服务\obj\Debug\121提取IP与端口以及提供的服务.exe
+D:\CSharp学习\传智播客2012学习\121提取IP与端口以及提供的服务\obj\Debug\121提取IP与端口以及提供的服务.pdb

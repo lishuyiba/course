@@ -1,0 +1,8 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ChangeStringLib\bin\Debug\ChangeStringLib.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ChangeStringLib\bin\Debug\ChangeStringLib.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ChangeStringLib\obj\Debug\ChangeStringLib.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ChangeStringLib\obj\Debug\ChangeStringLib.pdb
+D:\CSharp学习\传智播客2012学习\ChangeStringLib\bin\Debug\ChangeStringLib.dll
+D:\CSharp学习\传智播客2012学习\ChangeStringLib\bin\Debug\ChangeStringLib.pdb
+D:\CSharp学习\传智播客2012学习\ChangeStringLib\obj\Debug\ChangeStringLib.dll
+D:\CSharp学习\传智播客2012学习\ChangeStringLib\obj\Debug\ChangeStringLib.pdb

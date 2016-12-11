@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\96目录操作 -- Directory类\bin\Debug\96目录操作 -- Directory类.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\96目录操作 -- Directory类\bin\Debug\96目录操作 -- Directory类.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\96目录操作 -- Directory类\bin\Debug\96目录操作 -- Directory类.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\96目录操作 -- Directory类\obj\Debug\96目录操作 -- Directory类.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\96目录操作 -- Directory类\obj\Debug\96目录操作 -- Directory类.pdb
+D:\CSharp学习\传智播客2012学习\96目录操作 -- Directory类\bin\Debug\96目录操作 -- Directory类.exe.config
+D:\CSharp学习\传智播客2012学习\96目录操作 -- Directory类\bin\Debug\96目录操作 -- Directory类.exe
+D:\CSharp学习\传智播客2012学习\96目录操作 -- Directory类\bin\Debug\96目录操作 -- Directory类.pdb
+D:\CSharp学习\传智播客2012学习\96目录操作 -- Directory类\obj\Debug\96目录操作 -- Directory类.exe
+D:\CSharp学习\传智播客2012学习\96目录操作 -- Directory类\obj\Debug\96目录操作 -- Directory类.pdb

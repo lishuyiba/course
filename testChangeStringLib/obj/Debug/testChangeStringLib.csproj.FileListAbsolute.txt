@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\testChangeStringLib\bin\Debug\testChangeStringLib.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\testChangeStringLib\bin\Debug\testChangeStringLib.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\testChangeStringLib\bin\Debug\testChangeStringLib.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\testChangeStringLib\bin\Debug\ChangeStringLib.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\testChangeStringLib\bin\Debug\ChangeStringLib.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\testChangeStringLib\obj\Debug\testChangeStringLib.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\testChangeStringLib\obj\Debug\testChangeStringLib.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\testChangeStringLib\obj\Debug\testChangeStringLib.pdb
+D:\CSharp学习\传智播客2012学习\testChangeStringLib\bin\Debug\testChangeStringLib.exe.config
+D:\CSharp学习\传智播客2012学习\testChangeStringLib\bin\Debug\testChangeStringLib.exe
+D:\CSharp学习\传智播客2012学习\testChangeStringLib\bin\Debug\testChangeStringLib.pdb
+D:\CSharp学习\传智播客2012学习\testChangeStringLib\bin\Debug\ChangeStringLib.dll
+D:\CSharp学习\传智播客2012学习\testChangeStringLib\bin\Debug\ChangeStringLib.pdb
+D:\CSharp学习\传智播客2012学习\testChangeStringLib\obj\Debug\testChangeStringLib.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\testChangeStringLib\obj\Debug\testChangeStringLib.exe
+D:\CSharp学习\传智播客2012学习\testChangeStringLib\obj\Debug\testChangeStringLib.pdb

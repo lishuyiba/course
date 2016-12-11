@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\142委托和事件的区别（复习）\bin\Debug\142委托和事件的区别（复习）.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\142委托和事件的区别（复习）\bin\Debug\142委托和事件的区别（复习）.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\142委托和事件的区别（复习）\bin\Debug\142委托和事件的区别（复习）.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\142委托和事件的区别（复习）\obj\Debug\142委托和事件的区别（复习）.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\142委托和事件的区别（复习）\obj\Debug\142委托和事件的区别（复习）.pdb
+D:\CSharp学习\传智播客2012学习\142委托和事件的区别（复习）\bin\Debug\142委托和事件的区别（复习）.exe.config
+D:\CSharp学习\传智播客2012学习\142委托和事件的区别（复习）\bin\Debug\142委托和事件的区别（复习）.exe
+D:\CSharp学习\传智播客2012学习\142委托和事件的区别（复习）\bin\Debug\142委托和事件的区别（复习）.pdb
+D:\CSharp学习\传智播客2012学习\142委托和事件的区别（复习）\obj\Debug\142委托和事件的区别（复习）.exe
+D:\CSharp学习\传智播客2012学习\142委托和事件的区别（复习）\obj\Debug\142委托和事件的区别（复习）.pdb

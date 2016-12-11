@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02简易计算器\bin\Debug\02简易计算器.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02简易计算器\bin\Debug\02简易计算器.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02简易计算器\bin\Debug\02简易计算器.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02简易计算器\obj\Debug\_02简易计算器.frmCal.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02简易计算器\obj\Debug\_02简易计算器.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02简易计算器\obj\Debug\02简易计算器.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02简易计算器\obj\Debug\02简易计算器.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02简易计算器\obj\Debug\02简易计算器.pdb
+D:\CSharp学习\传智播客2012学习\02简易计算器\bin\Debug\02简易计算器.exe.config
+D:\CSharp学习\传智播客2012学习\02简易计算器\bin\Debug\02简易计算器.exe
+D:\CSharp学习\传智播客2012学习\02简易计算器\bin\Debug\02简易计算器.pdb
+D:\CSharp学习\传智播客2012学习\02简易计算器\obj\Debug\_02简易计算器.frmCal.resources
+D:\CSharp学习\传智播客2012学习\02简易计算器\obj\Debug\_02简易计算器.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\02简易计算器\obj\Debug\02简易计算器.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\02简易计算器\obj\Debug\02简易计算器.exe
+D:\CSharp学习\传智播客2012学习\02简易计算器\obj\Debug\02简易计算器.pdb

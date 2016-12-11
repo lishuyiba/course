@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\184自己填充DataSet\bin\Debug\184自己填充DataSet.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\184自己填充DataSet\bin\Debug\184自己填充DataSet.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\184自己填充DataSet\bin\Debug\184自己填充DataSet.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\184自己填充DataSet\obj\Debug\_184自己填充DataSet.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\184自己填充DataSet\obj\Debug\_184自己填充DataSet.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\184自己填充DataSet\obj\Debug\184自己填充DataSet.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\184自己填充DataSet\obj\Debug\184自己填充DataSet.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\184自己填充DataSet\obj\Debug\184自己填充DataSet.pdb
+D:\CSharp学习\传智播客2012学习\184自己填充DataSet\bin\Debug\184自己填充DataSet.exe.config
+D:\CSharp学习\传智播客2012学习\184自己填充DataSet\bin\Debug\184自己填充DataSet.exe
+D:\CSharp学习\传智播客2012学习\184自己填充DataSet\bin\Debug\184自己填充DataSet.pdb
+D:\CSharp学习\传智播客2012学习\184自己填充DataSet\obj\Debug\_184自己填充DataSet.Form1.resources
+D:\CSharp学习\传智播客2012学习\184自己填充DataSet\obj\Debug\_184自己填充DataSet.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\184自己填充DataSet\obj\Debug\184自己填充DataSet.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\184自己填充DataSet\obj\Debug\184自己填充DataSet.exe
+D:\CSharp学习\传智播客2012学习\184自己填充DataSet\obj\Debug\184自己填充DataSet.pdb

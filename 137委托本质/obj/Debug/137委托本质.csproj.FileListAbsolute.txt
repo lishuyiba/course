@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\137委托本质\bin\Debug\137委托本质.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\137委托本质\bin\Debug\137委托本质.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\137委托本质\bin\Debug\137委托本质.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\137委托本质\obj\Debug\137委托本质.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\137委托本质\obj\Debug\137委托本质.pdb
+D:\CSharp学习\传智播客2012学习\137委托本质\bin\Debug\137委托本质.exe.config
+D:\CSharp学习\传智播客2012学习\137委托本质\bin\Debug\137委托本质.exe
+D:\CSharp学习\传智播客2012学习\137委托本质\bin\Debug\137委托本质.pdb
+D:\CSharp学习\传智播客2012学习\137委托本质\obj\Debug\137委托本质.exe
+D:\CSharp学习\传智播客2012学习\137委托本质\obj\Debug\137委托本质.pdb

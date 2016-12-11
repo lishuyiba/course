@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\72垃圾回收\bin\Debug\72垃圾回收.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\72垃圾回收\bin\Debug\72垃圾回收.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\72垃圾回收\bin\Debug\72垃圾回收.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\72垃圾回收\obj\Debug\72垃圾回收.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\72垃圾回收\obj\Debug\72垃圾回收.pdb
+D:\CSharp学习\传智播客2012学习\72垃圾回收\bin\Debug\72垃圾回收.exe.config
+D:\CSharp学习\传智播客2012学习\72垃圾回收\bin\Debug\72垃圾回收.exe
+D:\CSharp学习\传智播客2012学习\72垃圾回收\bin\Debug\72垃圾回收.pdb
+D:\CSharp学习\传智播客2012学习\72垃圾回收\obj\Debug\72垃圾回收.exe
+D:\CSharp学习\传智播客2012学习\72垃圾回收\obj\Debug\72垃圾回收.pdb

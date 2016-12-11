@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\144反射\bin\Debug\144反射.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\144反射\bin\Debug\144反射.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\144反射\bin\Debug\144反射.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\144反射\obj\Debug\144反射.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\144反射\obj\Debug\144反射.pdb
+D:\CSharp学习\传智播客2012学习\144反射\bin\Debug\144反射.exe.config
+D:\CSharp学习\传智播客2012学习\144反射\obj\Debug\144反射.exe
+D:\CSharp学习\传智播客2012学习\144反射\obj\Debug\144反射.pdb
+D:\CSharp学习\传智播客2012学习\144反射\bin\Debug\144反射.exe
+D:\CSharp学习\传智播客2012学习\144反射\bin\Debug\144反射.pdb

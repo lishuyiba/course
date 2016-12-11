@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\159动态创建一个对象的Html表单项\bin\Debug\159动态创建一个对象的Html表单项.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\159动态创建一个对象的Html表单项\bin\Debug\159动态创建一个对象的Html表单项.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\159动态创建一个对象的Html表单项\bin\Debug\159动态创建一个对象的Html表单项.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\159动态创建一个对象的Html表单项\obj\Debug\_159动态创建一个对象的Html表单项.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\159动态创建一个对象的Html表单项\obj\Debug\_159动态创建一个对象的Html表单项.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\159动态创建一个对象的Html表单项\obj\Debug\159动态创建一个对象的Html表单项.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\159动态创建一个对象的Html表单项\obj\Debug\159动态创建一个对象的Html表单项.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\159动态创建一个对象的Html表单项\obj\Debug\159动态创建一个对象的Html表单项.pdb
+D:\CSharp学习\传智播客2012学习\159动态创建一个对象的Html表单项\bin\Debug\159动态创建一个对象的Html表单项.exe.config
+D:\CSharp学习\传智播客2012学习\159动态创建一个对象的Html表单项\bin\Debug\159动态创建一个对象的Html表单项.exe
+D:\CSharp学习\传智播客2012学习\159动态创建一个对象的Html表单项\bin\Debug\159动态创建一个对象的Html表单项.pdb
+D:\CSharp学习\传智播客2012学习\159动态创建一个对象的Html表单项\obj\Debug\_159动态创建一个对象的Html表单项.Form1.resources
+D:\CSharp学习\传智播客2012学习\159动态创建一个对象的Html表单项\obj\Debug\_159动态创建一个对象的Html表单项.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\159动态创建一个对象的Html表单项\obj\Debug\159动态创建一个对象的Html表单项.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\159动态创建一个对象的Html表单项\obj\Debug\159动态创建一个对象的Html表单项.exe
+D:\CSharp学习\传智播客2012学习\159动态创建一个对象的Html表单项\obj\Debug\159动态创建一个对象的Html表单项.pdb

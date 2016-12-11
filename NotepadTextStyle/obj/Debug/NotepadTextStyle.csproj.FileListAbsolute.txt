@@ -1,0 +1,18 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadTextStyle\bin\Debug\NotepadTextStyle.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadTextStyle\bin\Debug\NotepadTextStyle.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadTextStyle\bin\Debug\ExtEditorInterface.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadTextStyle\bin\Debug\ExtEditorInterface.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadTextStyle\obj\Debug\NotepadTextStyle.frmSetTxtStyle.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadTextStyle\obj\Debug\NotepadTextStyle.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadTextStyle\obj\Debug\NotepadTextStyle.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadTextStyle\obj\Debug\NotepadTextStyle.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadTextStyle\obj\Debug\NotepadTextStyle.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\NotepadTextStyle\bin\Debug\NotepadTextStyle.dll
+D:\CSharp学习\传智播客2012学习\NotepadTextStyle\bin\Debug\NotepadTextStyle.pdb
+D:\CSharp学习\传智播客2012学习\NotepadTextStyle\bin\Debug\ExtEditorInterface.dll
+D:\CSharp学习\传智播客2012学习\NotepadTextStyle\bin\Debug\ExtEditorInterface.pdb
+D:\CSharp学习\传智播客2012学习\NotepadTextStyle\obj\Debug\NotepadTextStyle.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\NotepadTextStyle\obj\Debug\NotepadTextStyle.frmSetTxtStyle.resources
+D:\CSharp学习\传智播客2012学习\NotepadTextStyle\obj\Debug\NotepadTextStyle.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\NotepadTextStyle\obj\Debug\NotepadTextStyle.dll
+D:\CSharp学习\传智播客2012学习\NotepadTextStyle\obj\Debug\NotepadTextStyle.pdb

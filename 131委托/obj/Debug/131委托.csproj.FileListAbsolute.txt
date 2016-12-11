@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\131委托\bin\Debug\131委托.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\131委托\bin\Debug\131委托.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\131委托\bin\Debug\131委托.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\131委托\obj\Debug\131委托.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\131委托\obj\Debug\131委托.pdb
+D:\CSharp学习\传智播客2012学习\131委托\bin\Debug\131委托.exe.config
+D:\CSharp学习\传智播客2012学习\131委托\bin\Debug\131委托.exe
+D:\CSharp学习\传智播客2012学习\131委托\bin\Debug\131委托.pdb
+D:\CSharp学习\传智播客2012学习\131委托\obj\Debug\131委托.exe
+D:\CSharp学习\传智播客2012学习\131委托\obj\Debug\131委托.pdb

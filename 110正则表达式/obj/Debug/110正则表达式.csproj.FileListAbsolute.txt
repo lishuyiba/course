@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\110正则表达式\bin\Debug\110正则表达式.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\110正则表达式\bin\Debug\110正则表达式.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\110正则表达式\bin\Debug\110正则表达式.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\110正则表达式\obj\Debug\110正则表达式.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\110正则表达式\obj\Debug\110正则表达式.pdb
+D:\CSharp学习\传智播客2012学习\110正则表达式\bin\Debug\110正则表达式.exe.config
+D:\CSharp学习\传智播客2012学习\110正则表达式\bin\Debug\110正则表达式.exe
+D:\CSharp学习\传智播客2012学习\110正则表达式\bin\Debug\110正则表达式.pdb
+D:\CSharp学习\传智播客2012学习\110正则表达式\obj\Debug\110正则表达式.exe
+D:\CSharp学习\传智播客2012学习\110正则表达式\obj\Debug\110正则表达式.pdb

@@ -1,0 +1,6 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\195游标\bin\Debug\195游标.exe.config
+D:\CSharp学习\传智播客2012学习\195游标\bin\Debug\195游标.exe.config
+D:\CSharp学习\传智播客2012学习\195游标\bin\Debug\195游标.exe
+D:\CSharp学习\传智播客2012学习\195游标\bin\Debug\195游标.pdb
+D:\CSharp学习\传智播客2012学习\195游标\obj\Debug\195游标.exe
+D:\CSharp学习\传智播客2012学习\195游标\obj\Debug\195游标.pdb

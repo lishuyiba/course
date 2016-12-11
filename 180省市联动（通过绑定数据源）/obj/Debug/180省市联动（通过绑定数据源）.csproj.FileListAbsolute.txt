@@ -1,0 +1,17 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\180省市联动（通过绑定数据源）\bin\Debug\180省市联动（通过绑定数据源）.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\180省市联动（通过绑定数据源）\bin\Debug\180省市联动（通过绑定数据源）.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\180省市联动（通过绑定数据源）\bin\Debug\180省市联动（通过绑定数据源）.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\180省市联动（通过绑定数据源）\obj\Debug\_180省市联动_通过绑定数据源_.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\180省市联动（通过绑定数据源）\obj\Debug\_180省市联动_通过绑定数据源_.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\180省市联动（通过绑定数据源）\obj\Debug\180省市联动（通过绑定数据源）.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\180省市联动（通过绑定数据源）\obj\Debug\180省市联动（通过绑定数据源）.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\180省市联动（通过绑定数据源）\obj\Debug\180省市联动（通过绑定数据源）.pdb
+D:\CSharp学习\传智播客2012学习\180省市联动（通过绑定数据源）\bin\Debug\180省市联动（通过绑定数据源）.exe.config
+D:\CSharp学习\传智播客2012学习\180省市联动（通过绑定数据源）\bin\Debug\180省市联动（通过绑定数据源）.exe
+D:\CSharp学习\传智播客2012学习\180省市联动（通过绑定数据源）\bin\Debug\180省市联动（通过绑定数据源）.pdb
+D:\CSharp学习\传智播客2012学习\180省市联动（通过绑定数据源）\obj\Debug\180省市联动（通过绑定数据源）.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\180省市联动（通过绑定数据源）\obj\Debug\_180省市联动_通过绑定数据源_.Form1.resources
+D:\CSharp学习\传智播客2012学习\180省市联动（通过绑定数据源）\obj\Debug\_180省市联动_通过绑定数据源_.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\180省市联动（通过绑定数据源）\obj\Debug\180省市联动（通过绑定数据源）.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\180省市联动（通过绑定数据源）\obj\Debug\180省市联动（通过绑定数据源）.exe
+D:\CSharp学习\传智播客2012学习\180省市联动（通过绑定数据源）\obj\Debug\180省市联动（通过绑定数据源）.pdb

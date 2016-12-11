@@ -1,0 +1,9 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ExtEditorInterface\bin\Debug\ExtEditorInterface.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ExtEditorInterface\bin\Debug\ExtEditorInterface.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ExtEditorInterface\obj\Debug\ExtEditorInterface.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ExtEditorInterface\obj\Debug\ExtEditorInterface.pdb
+D:\CSharp学习\传智播客2012学习\ExtEditorInterface\bin\Debug\ExtEditorInterface.dll
+D:\CSharp学习\传智播客2012学习\ExtEditorInterface\bin\Debug\ExtEditorInterface.pdb
+D:\CSharp学习\传智播客2012学习\ExtEditorInterface\obj\Debug\ExtEditorInterface.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\ExtEditorInterface\obj\Debug\ExtEditorInterface.dll
+D:\CSharp学习\传智播客2012学习\ExtEditorInterface\obj\Debug\ExtEditorInterface.pdb

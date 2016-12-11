@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\108StreamWriter与StreamReader\bin\Debug\108StreamWriter与StreamReader.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\108StreamWriter与StreamReader\bin\Debug\108StreamWriter与StreamReader.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\108StreamWriter与StreamReader\bin\Debug\108StreamWriter与StreamReader.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\108StreamWriter与StreamReader\obj\Debug\108StreamWriter与StreamReader.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\108StreamWriter与StreamReader\obj\Debug\108StreamWriter与StreamReader.pdb
+D:\CSharp学习\传智播客2012学习\108StreamWriter与StreamReader\bin\Debug\108StreamWriter与StreamReader.exe.config
+D:\CSharp学习\传智播客2012学习\108StreamWriter与StreamReader\bin\Debug\108StreamWriter与StreamReader.exe
+D:\CSharp学习\传智播客2012学习\108StreamWriter与StreamReader\bin\Debug\108StreamWriter与StreamReader.pdb
+D:\CSharp学习\传智播客2012学习\108StreamWriter与StreamReader\obj\Debug\108StreamWriter与StreamReader.exe
+D:\CSharp学习\传智播客2012学习\108StreamWriter与StreamReader\obj\Debug\108StreamWriter与StreamReader.pdb

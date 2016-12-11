@@ -1,0 +1,8 @@
+D:\CSharp学习\传智播客2012学习\206Excel上传工具\bin\Debug\206Excel上传工具.exe.config
+D:\CSharp学习\传智播客2012学习\206Excel上传工具\bin\Debug\206Excel上传工具.exe
+D:\CSharp学习\传智播客2012学习\206Excel上传工具\bin\Debug\206Excel上传工具.pdb
+D:\CSharp学习\传智播客2012学习\206Excel上传工具\obj\Debug\_206Excel上传工具.Form1.resources
+D:\CSharp学习\传智播客2012学习\206Excel上传工具\obj\Debug\_206Excel上传工具.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\206Excel上传工具\obj\Debug\206Excel上传工具.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\206Excel上传工具\obj\Debug\206Excel上传工具.exe
+D:\CSharp学习\传智播客2012学习\206Excel上传工具\obj\Debug\206Excel上传工具.pdb

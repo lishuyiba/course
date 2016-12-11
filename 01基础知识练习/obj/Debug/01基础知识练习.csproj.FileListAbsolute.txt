@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\01基础知识练习\bin\Debug\01基础知识练习.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\01基础知识练习\bin\Debug\01基础知识练习.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\01基础知识练习\bin\Debug\01基础知识练习.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\01基础知识练习\obj\Debug\01基础知识练习.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\01基础知识练习\obj\Debug\01基础知识练习.pdb
+D:\桌面文件\VS2012学习项目\传智播客2012学习\01基础知识练习\bin\Debug\01基础知识练习.exe.config
+D:\桌面文件\VS2012学习项目\传智播客2012学习\01基础知识练习\obj\Debug\01基础知识练习.exe
+D:\桌面文件\VS2012学习项目\传智播客2012学习\01基础知识练习\obj\Debug\01基础知识练习.pdb
+D:\桌面文件\VS2012学习\传智播客2012学习\01基础知识练习\bin\Debug\01基础知识练习.exe.config
+D:\桌面文件\VS2012学习\传智播客2012学习\01基础知识练习\obj\Debug\01基础知识练习.exe
+D:\桌面文件\VS2012学习\传智播客2012学习\01基础知识练习\obj\Debug\01基础知识练习.pdb
+D:\CSharp学习\传智播客2012学习\01基础知识练习\bin\Debug\01基础知识练习.exe.config
+D:\CSharp学习\传智播客2012学习\01基础知识练习\bin\Debug\01基础知识练习.exe
+D:\CSharp学习\传智播客2012学习\01基础知识练习\bin\Debug\01基础知识练习.pdb
+D:\CSharp学习\传智播客2012学习\01基础知识练习\obj\Debug\01基础知识练习.exe
+D:\CSharp学习\传智播客2012学习\01基础知识练习\obj\Debug\01基础知识练习.pdb

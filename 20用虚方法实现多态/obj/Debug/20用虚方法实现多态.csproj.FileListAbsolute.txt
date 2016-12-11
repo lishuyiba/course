@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\20用虚方法实现多态\bin\Debug\20用虚方法实现多态.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\20用虚方法实现多态\bin\Debug\20用虚方法实现多态.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\20用虚方法实现多态\bin\Debug\20用虚方法实现多态.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\20用虚方法实现多态\obj\Debug\20用虚方法实现多态.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\20用虚方法实现多态\obj\Debug\20用虚方法实现多态.pdb
+D:\CSharp学习\传智播客2012学习\20用虚方法实现多态\bin\Debug\20用虚方法实现多态.exe.config
+D:\CSharp学习\传智播客2012学习\20用虚方法实现多态\bin\Debug\20用虚方法实现多态.exe
+D:\CSharp学习\传智播客2012学习\20用虚方法实现多态\bin\Debug\20用虚方法实现多态.pdb
+D:\CSharp学习\传智播客2012学习\20用虚方法实现多态\obj\Debug\20用虚方法实现多态.exe
+D:\CSharp学习\传智播客2012学习\20用虚方法实现多态\obj\Debug\20用虚方法实现多态.pdb

@@ -1,0 +1,17 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\bin\Debug\97资源管理器 -- 目录递归加载到TreeView.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\obj\Debug\_97资源管理器____目录递归加载到TreeView.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\obj\Debug\_97资源管理器____目录递归加载到TreeView.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\obj\Debug\97资源管理器 -- 目录递归加载到TreeView.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\bin\Debug\97资源管理器 -- 目录递归加载到TreeView.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\bin\Debug\97资源管理器 -- 目录递归加载到TreeView.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\obj\Debug\97资源管理器 -- 目录递归加载到TreeView.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\obj\Debug\97资源管理器 -- 目录递归加载到TreeView.pdb
+D:\CSharp学习\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\bin\Debug\97资源管理器 -- 目录递归加载到TreeView.exe.config
+D:\CSharp学习\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\bin\Debug\97资源管理器 -- 目录递归加载到TreeView.exe
+D:\CSharp学习\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\bin\Debug\97资源管理器 -- 目录递归加载到TreeView.pdb
+D:\CSharp学习\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\obj\Debug\97资源管理器 -- 目录递归加载到TreeView.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\obj\Debug\_97资源管理器____目录递归加载到TreeView.Form1.resources
+D:\CSharp学习\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\obj\Debug\_97资源管理器____目录递归加载到TreeView.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\obj\Debug\97资源管理器 -- 目录递归加载到TreeView.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\obj\Debug\97资源管理器 -- 目录递归加载到TreeView.exe
+D:\CSharp学习\传智播客2012学习\97资源管理器 -- 目录递归加载到TreeView\obj\Debug\97资源管理器 -- 目录递归加载到TreeView.pdb

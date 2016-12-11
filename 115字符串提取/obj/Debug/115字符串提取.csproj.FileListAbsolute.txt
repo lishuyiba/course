@@ -1,0 +1,13 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\115字符串提取\bin\Debug\115字符串提取.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\115字符串提取\bin\Debug\115字符串提取.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\115字符串提取\bin\Debug\115字符串提取.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\115字符串提取\obj\Debug\115字符串提取.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\115字符串提取\obj\Debug\115字符串提取.pdb
+D:\桌面文件\VS2012学习\传智播客2012学习\115字符串提取\bin\Debug\115字符串提取.exe.config
+D:\桌面文件\VS2012学习\传智播客2012学习\115字符串提取\obj\Debug\115字符串提取.exe
+D:\桌面文件\VS2012学习\传智播客2012学习\115字符串提取\obj\Debug\115字符串提取.pdb
+D:\CSharp学习\传智播客2012学习\115字符串提取\bin\Debug\115字符串提取.exe.config
+D:\CSharp学习\传智播客2012学习\115字符串提取\bin\Debug\115字符串提取.exe
+D:\CSharp学习\传智播客2012学习\115字符串提取\bin\Debug\115字符串提取.pdb
+D:\CSharp学习\传智播客2012学习\115字符串提取\obj\Debug\115字符串提取.exe
+D:\CSharp学习\传智播客2012学习\115字符串提取\obj\Debug\115字符串提取.pdb

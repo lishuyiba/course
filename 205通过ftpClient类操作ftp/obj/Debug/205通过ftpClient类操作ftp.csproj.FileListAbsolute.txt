@@ -1,0 +1,5 @@
+D:\CSharp学习\传智播客2012学习\205通过ftpClient类操作ftp\bin\Debug\205通过ftpClient类操作ftp.exe.config
+D:\CSharp学习\传智播客2012学习\205通过ftpClient类操作ftp\bin\Debug\205通过ftpClient类操作ftp.exe
+D:\CSharp学习\传智播客2012学习\205通过ftpClient类操作ftp\bin\Debug\205通过ftpClient类操作ftp.pdb
+D:\CSharp学习\传智播客2012学习\205通过ftpClient类操作ftp\obj\Debug\205通过ftpClient类操作ftp.exe
+D:\CSharp学习\传智播客2012学习\205通过ftpClient类操作ftp\obj\Debug\205通过ftpClient类操作ftp.pdb

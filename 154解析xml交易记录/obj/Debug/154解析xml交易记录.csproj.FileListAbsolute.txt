@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\154解析xml交易记录\bin\Debug\154解析xml交易记录.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\154解析xml交易记录\bin\Debug\154解析xml交易记录.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\154解析xml交易记录\bin\Debug\154解析xml交易记录.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\154解析xml交易记录\obj\Debug\154解析xml交易记录.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\154解析xml交易记录\obj\Debug\154解析xml交易记录.pdb
+D:\CSharp学习\传智播客2012学习\154解析xml交易记录\bin\Debug\154解析xml交易记录.exe.config
+D:\CSharp学习\传智播客2012学习\154解析xml交易记录\bin\Debug\154解析xml交易记录.exe
+D:\CSharp学习\传智播客2012学习\154解析xml交易记录\bin\Debug\154解析xml交易记录.pdb
+D:\CSharp学习\传智播客2012学习\154解析xml交易记录\obj\Debug\154解析xml交易记录.exe
+D:\CSharp学习\传智播客2012学习\154解析xml交易记录\obj\Debug\154解析xml交易记录.pdb

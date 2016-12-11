@@ -1,0 +1,5 @@
+D:\CSharp学习\传智播客2012学习\204通过WebClient操作FTP\bin\Debug\204通过WebClient操作FTP.exe.config
+D:\CSharp学习\传智播客2012学习\204通过WebClient操作FTP\bin\Debug\204通过WebClient操作FTP.exe
+D:\CSharp学习\传智播客2012学习\204通过WebClient操作FTP\bin\Debug\204通过WebClient操作FTP.pdb
+D:\CSharp学习\传智播客2012学习\204通过WebClient操作FTP\obj\Debug\204通过WebClient操作FTP.exe
+D:\CSharp学习\传智播客2012学习\204通过WebClient操作FTP\obj\Debug\204通过WebClient操作FTP.pdb

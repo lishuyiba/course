@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\174登陆\bin\Debug\174登陆.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\174登陆\bin\Debug\174登陆.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\174登陆\bin\Debug\174登陆.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\174登陆\obj\Debug\_174登陆.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\174登陆\obj\Debug\_174登陆.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\174登陆\obj\Debug\174登陆.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\174登陆\obj\Debug\174登陆.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\174登陆\obj\Debug\174登陆.pdb
+D:\CSharp学习\传智播客2012学习\174登陆\bin\Debug\174登陆.exe.config
+D:\CSharp学习\传智播客2012学习\174登陆\bin\Debug\174登陆.exe
+D:\CSharp学习\传智播客2012学习\174登陆\bin\Debug\174登陆.pdb
+D:\CSharp学习\传智播客2012学习\174登陆\obj\Debug\_174登陆.Form1.resources
+D:\CSharp学习\传智播客2012学习\174登陆\obj\Debug\_174登陆.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\174登陆\obj\Debug\174登陆.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\174登陆\obj\Debug\174登陆.exe
+D:\CSharp学习\传智播客2012学习\174登陆\obj\Debug\174登陆.pdb

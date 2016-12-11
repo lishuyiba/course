@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\71复习字符串\bin\Debug\71复习字符串.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\71复习字符串\bin\Debug\71复习字符串.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\71复习字符串\bin\Debug\71复习字符串.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\71复习字符串\obj\Debug\71复习字符串.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\71复习字符串\obj\Debug\71复习字符串.pdb
+D:\CSharp学习\传智播客2012学习\71复习字符串\bin\Debug\71复习字符串.exe.config
+D:\CSharp学习\传智播客2012学习\71复习字符串\bin\Debug\71复习字符串.exe
+D:\CSharp学习\传智播客2012学习\71复习字符串\bin\Debug\71复习字符串.pdb
+D:\CSharp学习\传智播客2012学习\71复习字符串\obj\Debug\71复习字符串.exe
+D:\CSharp学习\传智播客2012学习\71复习字符串\obj\Debug\71复习字符串.pdb

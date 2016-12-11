@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\181资源管理器-数据库版本\bin\Debug\181资源管理器-数据库版本.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\181资源管理器-数据库版本\obj\Debug\_181资源管理器_数据库版本.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\181资源管理器-数据库版本\obj\Debug\_181资源管理器_数据库版本.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\181资源管理器-数据库版本\obj\Debug\181资源管理器-数据库版本.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\181资源管理器-数据库版本\bin\Debug\181资源管理器-数据库版本.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\181资源管理器-数据库版本\bin\Debug\181资源管理器-数据库版本.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\181资源管理器-数据库版本\obj\Debug\181资源管理器-数据库版本.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\181资源管理器-数据库版本\obj\Debug\181资源管理器-数据库版本.pdb
+D:\CSharp学习\传智播客2012学习\181资源管理器-数据库版本\bin\Debug\181资源管理器-数据库版本.exe.config
+D:\CSharp学习\传智播客2012学习\181资源管理器-数据库版本\bin\Debug\181资源管理器-数据库版本.exe
+D:\CSharp学习\传智播客2012学习\181资源管理器-数据库版本\bin\Debug\181资源管理器-数据库版本.pdb
+D:\CSharp学习\传智播客2012学习\181资源管理器-数据库版本\obj\Debug\_181资源管理器_数据库版本.Form1.resources
+D:\CSharp学习\传智播客2012学习\181资源管理器-数据库版本\obj\Debug\_181资源管理器_数据库版本.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\181资源管理器-数据库版本\obj\Debug\181资源管理器-数据库版本.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\181资源管理器-数据库版本\obj\Debug\181资源管理器-数据库版本.exe
+D:\CSharp学习\传智播客2012学习\181资源管理器-数据库版本\obj\Debug\181资源管理器-数据库版本.pdb

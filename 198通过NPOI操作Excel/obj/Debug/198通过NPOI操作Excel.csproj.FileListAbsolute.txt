@@ -1,0 +1,23 @@
+C:\Users\lenovo\documents\visual studio 2012\Projects\传智播客2012学习\198通过NPOI操作Excel\bin\Debug\198通过NPOI操作Excel.exe.config
+C:\Users\lenovo\documents\visual studio 2012\Projects\传智播客2012学习\198通过NPOI操作Excel\bin\Debug\198通过NPOI操作Excel.exe
+C:\Users\lenovo\documents\visual studio 2012\Projects\传智播客2012学习\198通过NPOI操作Excel\bin\Debug\198通过NPOI操作Excel.pdb
+C:\Users\lenovo\documents\visual studio 2012\Projects\传智播客2012学习\198通过NPOI操作Excel\bin\Debug\Ionic.Zip.dll
+C:\Users\lenovo\documents\visual studio 2012\Projects\传智播客2012学习\198通过NPOI操作Excel\bin\Debug\NPOI.dll
+C:\Users\lenovo\documents\visual studio 2012\Projects\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\198通过NPOI操作Excel.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\documents\visual studio 2012\Projects\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\_198通过NPOI操作Excel.Form1.resources
+C:\Users\lenovo\documents\visual studio 2012\Projects\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\_198通过NPOI操作Excel.Properties.Resources.resources
+C:\Users\lenovo\documents\visual studio 2012\Projects\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\198通过NPOI操作Excel.csproj.GenerateResource.Cache
+C:\Users\lenovo\documents\visual studio 2012\Projects\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\198通过NPOI操作Excel.exe
+C:\Users\lenovo\documents\visual studio 2012\Projects\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\198通过NPOI操作Excel.pdb
+D:\桌面文件\VS2012学习\传智播客2012学习\198通过NPOI操作Excel\bin\Debug\198通过NPOI操作Excel.exe.config
+D:\桌面文件\VS2012学习\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\198通过NPOI操作Excel.exe
+D:\桌面文件\VS2012学习\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\198通过NPOI操作Excel.pdb
+D:\CSharp学习\传智播客2012学习\198通过NPOI操作Excel\bin\Debug\198通过NPOI操作Excel.exe.config
+D:\CSharp学习\传智播客2012学习\198通过NPOI操作Excel\bin\Debug\198通过NPOI操作Excel.exe
+D:\CSharp学习\传智播客2012学习\198通过NPOI操作Excel\bin\Debug\198通过NPOI操作Excel.pdb
+D:\CSharp学习\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\198通过NPOI操作Excel.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\_198通过NPOI操作Excel.Form1.resources
+D:\CSharp学习\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\_198通过NPOI操作Excel.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\198通过NPOI操作Excel.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\198通过NPOI操作Excel.exe
+D:\CSharp学习\传智播客2012学习\198通过NPOI操作Excel\obj\Debug\198通过NPOI操作Excel.pdb

@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ref和out\bin\Debug\ref和out.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ref和out\bin\Debug\ref和out.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ref和out\bin\Debug\ref和out.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ref和out\obj\Debug\ref和out.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ref和out\obj\Debug\ref和out.pdb
+D:\CSharp学习\传智播客2012学习\ref和out\bin\Debug\ref和out.exe.config
+D:\CSharp学习\传智播客2012学习\ref和out\bin\Debug\ref和out.exe
+D:\CSharp学习\传智播客2012学习\ref和out\bin\Debug\ref和out.pdb
+D:\CSharp学习\传智播客2012学习\ref和out\obj\Debug\ref和out.exe
+D:\CSharp学习\传智播客2012学习\ref和out\obj\Debug\ref和out.pdb

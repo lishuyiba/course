@@ -1,0 +1,3 @@
+D:\CSharp学习\传智播客2012学习\208汉字To拼音\obj\Debug\_208汉字To拼音.Form1.resources
+D:\CSharp学习\传智播客2012学习\208汉字To拼音\obj\Debug\_208汉字To拼音.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\208汉字To拼音\obj\Debug\208汉字To拼音.csproj.GenerateResource.Cache

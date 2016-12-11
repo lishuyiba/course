@@ -1,0 +1,8 @@
+D:\CSharp学习\传智播客2012学习\209简体繁体转换\bin\Debug\209简体繁体转换.exe.config
+D:\CSharp学习\传智播客2012学习\209简体繁体转换\bin\Debug\209简体繁体转换.exe
+D:\CSharp学习\传智播客2012学习\209简体繁体转换\bin\Debug\209简体繁体转换.pdb
+D:\CSharp学习\传智播客2012学习\209简体繁体转换\obj\Debug\_209简体繁体转换.Form1.resources
+D:\CSharp学习\传智播客2012学习\209简体繁体转换\obj\Debug\_209简体繁体转换.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\209简体繁体转换\obj\Debug\209简体繁体转换.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\209简体繁体转换\obj\Debug\209简体繁体转换.exe
+D:\CSharp学习\传智播客2012学习\209简体繁体转换\obj\Debug\209简体繁体转换.pdb

@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\156 Schema和DTD\bin\Debug\156 Schema和DTD.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\156 Schema和DTD\bin\Debug\156 Schema和DTD.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\156 Schema和DTD\bin\Debug\156 Schema和DTD.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\156 Schema和DTD\obj\Debug\156 Schema和DTD.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\156 Schema和DTD\obj\Debug\156 Schema和DTD.pdb
+D:\CSharp学习\传智播客2012学习\156 Schema和DTD\bin\Debug\156 Schema和DTD.exe.config
+D:\CSharp学习\传智播客2012学习\156 Schema和DTD\bin\Debug\156 Schema和DTD.exe
+D:\CSharp学习\传智播客2012学习\156 Schema和DTD\bin\Debug\156 Schema和DTD.pdb
+D:\CSharp学习\传智播客2012学习\156 Schema和DTD\obj\Debug\156 Schema和DTD.exe
+D:\CSharp学习\传智播客2012学习\156 Schema和DTD\obj\Debug\156 Schema和DTD.pdb

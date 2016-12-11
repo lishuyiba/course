@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\01动态加载程序集，并且读取程序集中的类型信息\bin\Debug\01动态加载程序集，并且读取程序集中的类型信息.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\01动态加载程序集，并且读取程序集中的类型信息\bin\Debug\01动态加载程序集，并且读取程序集中的类型信息.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\01动态加载程序集，并且读取程序集中的类型信息\bin\Debug\01动态加载程序集，并且读取程序集中的类型信息.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\01动态加载程序集，并且读取程序集中的类型信息\obj\Debug\01动态加载程序集，并且读取程序集中的类型信息.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\01动态加载程序集，并且读取程序集中的类型信息\obj\Debug\01动态加载程序集，并且读取程序集中的类型信息.pdb
+D:\CSharp学习\传智播客2012学习\01动态加载程序集，并且读取程序集中的类型信息\bin\Debug\01动态加载程序集，并且读取程序集中的类型信息.exe.config
+D:\CSharp学习\传智播客2012学习\01动态加载程序集，并且读取程序集中的类型信息\bin\Debug\01动态加载程序集，并且读取程序集中的类型信息.exe
+D:\CSharp学习\传智播客2012学习\01动态加载程序集，并且读取程序集中的类型信息\bin\Debug\01动态加载程序集，并且读取程序集中的类型信息.pdb
+D:\CSharp学习\传智播客2012学习\01动态加载程序集，并且读取程序集中的类型信息\obj\Debug\01动态加载程序集，并且读取程序集中的类型信息.exe
+D:\CSharp学习\传智播客2012学习\01动态加载程序集，并且读取程序集中的类型信息\obj\Debug\01动态加载程序集，并且读取程序集中的类型信息.pdb

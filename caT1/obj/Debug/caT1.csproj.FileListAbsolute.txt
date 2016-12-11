@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\caT1\bin\Debug\caT1.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\caT1\bin\Debug\caT1.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\caT1\bin\Debug\caT1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\caT1\bin\Debug\ClsLib.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\caT1\bin\Debug\ClsLib.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\caT1\obj\Debug\caT1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\caT1\obj\Debug\caT1.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\caT1\obj\Debug\caT1.pdb
+D:\CSharp学习\传智播客2012学习\caT1\bin\Debug\caT1.exe.config
+D:\CSharp学习\传智播客2012学习\caT1\bin\Debug\caT1.exe
+D:\CSharp学习\传智播客2012学习\caT1\bin\Debug\caT1.pdb
+D:\CSharp学习\传智播客2012学习\caT1\bin\Debug\ClsLib.dll
+D:\CSharp学习\传智播客2012学习\caT1\bin\Debug\ClsLib.pdb
+D:\CSharp学习\传智播客2012学习\caT1\obj\Debug\caT1.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\caT1\obj\Debug\caT1.exe
+D:\CSharp学习\传智播客2012学习\caT1\obj\Debug\caT1.pdb

@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\94为什么有些类可以使用foreach循环遍历\bin\Debug\94为什么有些类可以使用foreach循环遍历.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\94为什么有些类可以使用foreach循环遍历\bin\Debug\94为什么有些类可以使用foreach循环遍历.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\94为什么有些类可以使用foreach循环遍历\bin\Debug\94为什么有些类可以使用foreach循环遍历.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\94为什么有些类可以使用foreach循环遍历\obj\Debug\94为什么有些类可以使用foreach循环遍历.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\94为什么有些类可以使用foreach循环遍历\obj\Debug\94为什么有些类可以使用foreach循环遍历.pdb
+D:\CSharp学习\传智播客2012学习\94为什么有些类可以使用foreach循环遍历\bin\Debug\94为什么有些类可以使用foreach循环遍历.exe.config
+D:\CSharp学习\传智播客2012学习\94为什么有些类可以使用foreach循环遍历\bin\Debug\94为什么有些类可以使用foreach循环遍历.exe
+D:\CSharp学习\传智播客2012学习\94为什么有些类可以使用foreach循环遍历\bin\Debug\94为什么有些类可以使用foreach循环遍历.pdb
+D:\CSharp学习\传智播客2012学习\94为什么有些类可以使用foreach循环遍历\obj\Debug\94为什么有些类可以使用foreach循环遍历.exe
+D:\CSharp学习\传智播客2012学习\94为什么有些类可以使用foreach循环遍历\obj\Debug\94为什么有些类可以使用foreach循环遍历.pdb

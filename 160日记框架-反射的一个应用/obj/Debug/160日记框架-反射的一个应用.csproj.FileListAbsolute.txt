@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\160日记框架-反射的一个应用\bin\Debug\160日记框架-反射的一个应用.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\160日记框架-反射的一个应用\bin\Debug\160日记框架-反射的一个应用.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\160日记框架-反射的一个应用\bin\Debug\160日记框架-反射的一个应用.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\160日记框架-反射的一个应用\obj\Debug\160日记框架-反射的一个应用.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\160日记框架-反射的一个应用\obj\Debug\160日记框架-反射的一个应用.pdb
+D:\CSharp学习\传智播客2012学习\160日记框架-反射的一个应用\bin\Debug\160日记框架-反射的一个应用.exe.config
+D:\CSharp学习\传智播客2012学习\160日记框架-反射的一个应用\bin\Debug\160日记框架-反射的一个应用.exe
+D:\CSharp学习\传智播客2012学习\160日记框架-反射的一个应用\bin\Debug\160日记框架-反射的一个应用.pdb
+D:\CSharp学习\传智播客2012学习\160日记框架-反射的一个应用\obj\Debug\160日记框架-反射的一个应用.exe
+D:\CSharp学习\传智播客2012学习\160日记框架-反射的一个应用\obj\Debug\160日记框架-反射的一个应用.pdb

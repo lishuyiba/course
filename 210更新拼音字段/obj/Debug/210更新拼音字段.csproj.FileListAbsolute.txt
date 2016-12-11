@@ -1,0 +1,4 @@
+D:\CSharp学习\传智播客2012学习\210更新拼音字段\obj\Debug\_210更新拼音字段.Form1.resources
+D:\CSharp学习\传智播客2012学习\210更新拼音字段\obj\Debug\_210更新拼音字段.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\210更新拼音字段\obj\Debug\210更新拼音字段.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\210更新拼音字段\bin\Debug\210更新拼音字段.exe.config

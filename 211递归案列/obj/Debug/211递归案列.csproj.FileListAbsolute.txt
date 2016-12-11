@@ -1,0 +1,5 @@
+D:\CSharp学习\传智播客2012学习\211递归案列\bin\Debug\211递归案列.exe.config
+D:\CSharp学习\传智播客2012学习\211递归案列\bin\Debug\211递归案列.exe
+D:\CSharp学习\传智播客2012学习\211递归案列\bin\Debug\211递归案列.pdb
+D:\CSharp学习\传智播客2012学习\211递归案列\obj\Debug\211递归案列.exe
+D:\CSharp学习\传智播客2012学习\211递归案列\obj\Debug\211递归案列.pdb

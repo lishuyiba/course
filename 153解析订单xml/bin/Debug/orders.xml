@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<order>
+	<CustomerName>杨中科</CustomerName>
+	<OrderNumber>BJ200888</OrderNumber>
+	<Items>
+		<OrderItem Name="电脑" Count="30" />
+		<OrderItem Name="电视" Count="2" />
+		<OrderItem Name="水杯" Count="20" />
+	</Items>
+</order>

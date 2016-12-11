@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\183DataSet演示\bin\Debug\183DataSet演示.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\183DataSet演示\bin\Debug\183DataSet演示.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\183DataSet演示\bin\Debug\183DataSet演示.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\183DataSet演示\obj\Debug\_183DataSet演示.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\183DataSet演示\obj\Debug\_183DataSet演示.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\183DataSet演示\obj\Debug\183DataSet演示.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\183DataSet演示\obj\Debug\183DataSet演示.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\183DataSet演示\obj\Debug\183DataSet演示.pdb
+D:\CSharp学习\传智播客2012学习\183DataSet演示\bin\Debug\183DataSet演示.exe.config
+D:\CSharp学习\传智播客2012学习\183DataSet演示\bin\Debug\183DataSet演示.exe
+D:\CSharp学习\传智播客2012学习\183DataSet演示\bin\Debug\183DataSet演示.pdb
+D:\CSharp学习\传智播客2012学习\183DataSet演示\obj\Debug\_183DataSet演示.Form1.resources
+D:\CSharp学习\传智播客2012学习\183DataSet演示\obj\Debug\_183DataSet演示.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\183DataSet演示\obj\Debug\183DataSet演示.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\183DataSet演示\obj\Debug\183DataSet演示.exe
+D:\CSharp学习\传智播客2012学习\183DataSet演示\obj\Debug\183DataSet演示.pdb

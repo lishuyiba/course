@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\04简易计算器（封装一个类实现）\bin\Debug\04简易计算器（封装一个类实现）.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\04简易计算器（封装一个类实现）\bin\Debug\04简易计算器（封装一个类实现）.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\04简易计算器（封装一个类实现）\bin\Debug\04简易计算器（封装一个类实现）.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\04简易计算器（封装一个类实现）\obj\Debug\_04简易计算器_封装一个类实现_.frmCal.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\04简易计算器（封装一个类实现）\obj\Debug\_04简易计算器_封装一个类实现_.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\04简易计算器（封装一个类实现）\obj\Debug\04简易计算器（封装一个类实现）.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\04简易计算器（封装一个类实现）\obj\Debug\04简易计算器（封装一个类实现）.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\04简易计算器（封装一个类实现）\obj\Debug\04简易计算器（封装一个类实现）.pdb
+D:\CSharp学习\传智播客2012学习\04简易计算器（封装一个类实现）\bin\Debug\04简易计算器（封装一个类实现）.exe.config
+D:\CSharp学习\传智播客2012学习\04简易计算器（封装一个类实现）\bin\Debug\04简易计算器（封装一个类实现）.exe
+D:\CSharp学习\传智播客2012学习\04简易计算器（封装一个类实现）\bin\Debug\04简易计算器（封装一个类实现）.pdb
+D:\CSharp学习\传智播客2012学习\04简易计算器（封装一个类实现）\obj\Debug\_04简易计算器_封装一个类实现_.frmCal.resources
+D:\CSharp学习\传智播客2012学习\04简易计算器（封装一个类实现）\obj\Debug\_04简易计算器_封装一个类实现_.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\04简易计算器（封装一个类实现）\obj\Debug\04简易计算器（封装一个类实现）.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\04简易计算器（封装一个类实现）\obj\Debug\04简易计算器（封装一个类实现）.exe
+D:\CSharp学习\传智播客2012学习\04简易计算器（封装一个类实现）\obj\Debug\04简易计算器（封装一个类实现）.pdb

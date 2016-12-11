@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\187电话管理程序\bin\Debug\187电话管理程序.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\187电话管理程序\bin\Debug\187电话管理程序.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\187电话管理程序\bin\Debug\187电话管理程序.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\187电话管理程序\obj\Debug\_187电话管理程序.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\187电话管理程序\obj\Debug\187电话管理程序.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\187电话管理程序\obj\Debug\187电话管理程序.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\187电话管理程序\obj\Debug\187电话管理程序.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\187电话管理程序\obj\Debug\_187电话管理程序.Main.resources
+D:\CSharp学习\传智播客2012学习\187电话管理程序\bin\Debug\187电话管理程序.exe.config
+D:\CSharp学习\传智播客2012学习\187电话管理程序\bin\Debug\187电话管理程序.exe
+D:\CSharp学习\传智播客2012学习\187电话管理程序\bin\Debug\187电话管理程序.pdb
+D:\CSharp学习\传智播客2012学习\187电话管理程序\obj\Debug\_187电话管理程序.Main.resources
+D:\CSharp学习\传智播客2012学习\187电话管理程序\obj\Debug\_187电话管理程序.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\187电话管理程序\obj\Debug\187电话管理程序.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\187电话管理程序\obj\Debug\187电话管理程序.exe
+D:\CSharp学习\传智播客2012学习\187电话管理程序\obj\Debug\187电话管理程序.pdb

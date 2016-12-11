@@ -1,0 +1,14 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadConvertToUpper\obj\Debug\NotepadConvertToUpper.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadConvertToUpper\bin\Debug\NotepadConvertToUpper.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadConvertToUpper\bin\Debug\NotepadConvertToUpper.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadConvertToUpper\bin\Debug\ExtEditorInterface.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadConvertToUpper\bin\Debug\ExtEditorInterface.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadConvertToUpper\obj\Debug\NotepadConvertToUpper.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\NotepadConvertToUpper\obj\Debug\NotepadConvertToUpper.pdb
+D:\CSharp学习\传智播客2012学习\NotepadConvertToUpper\bin\Debug\NotepadConvertToUpper.dll
+D:\CSharp学习\传智播客2012学习\NotepadConvertToUpper\bin\Debug\NotepadConvertToUpper.pdb
+D:\CSharp学习\传智播客2012学习\NotepadConvertToUpper\bin\Debug\ExtEditorInterface.dll
+D:\CSharp学习\传智播客2012学习\NotepadConvertToUpper\bin\Debug\ExtEditorInterface.pdb
+D:\CSharp学习\传智播客2012学习\NotepadConvertToUpper\obj\Debug\NotepadConvertToUpper.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\NotepadConvertToUpper\obj\Debug\NotepadConvertToUpper.dll
+D:\CSharp学习\传智播客2012学习\NotepadConvertToUpper\obj\Debug\NotepadConvertToUpper.pdb

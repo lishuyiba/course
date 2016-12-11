@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\109反序列化\bin\Debug\109反序列化.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\109反序列化\bin\Debug\109反序列化.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\109反序列化\bin\Debug\109反序列化.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\109反序列化\obj\Debug\109反序列化.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\109反序列化\obj\Debug\109反序列化.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\109反序列化\bin\Debug\108对象序列化.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\109反序列化\bin\Debug\108对象序列化.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\109反序列化\obj\Debug\109反序列化.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\109反序列化\bin\Debug\109反序列化.exe.config
+D:\CSharp学习\传智播客2012学习\109反序列化\bin\Debug\109反序列化.exe
+D:\CSharp学习\传智播客2012学习\109反序列化\bin\Debug\109反序列化.pdb
+D:\CSharp学习\传智播客2012学习\109反序列化\bin\Debug\108对象序列化.exe
+D:\CSharp学习\传智播客2012学习\109反序列化\bin\Debug\108对象序列化.pdb
+D:\CSharp学习\传智播客2012学习\109反序列化\obj\Debug\109反序列化.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\109反序列化\obj\Debug\109反序列化.exe
+D:\CSharp学习\传智播客2012学习\109反序列化\obj\Debug\109反序列化.pdb

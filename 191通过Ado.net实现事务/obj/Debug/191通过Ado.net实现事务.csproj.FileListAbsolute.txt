@@ -1,0 +1,12 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\191通过Ado.net实现事务\bin\Debug\191通过Ado.net实现事务.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\191通过Ado.net实现事务\bin\Debug\191通过Ado.net实现事务.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\191通过Ado.net实现事务\bin\Debug\191通过Ado.net实现事务.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\191通过Ado.net实现事务\obj\Debug\191通过Ado.net实现事务.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\191通过Ado.net实现事务\obj\Debug\191通过Ado.net实现事务.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\191通过Ado.net实现事务\obj\Debug\191通过Ado.net实现事务.pdb
+D:\CSharp学习\传智播客2012学习\191通过Ado.net实现事务\bin\Debug\191通过Ado.net实现事务.exe.config
+D:\CSharp学习\传智播客2012学习\191通过Ado.net实现事务\bin\Debug\191通过Ado.net实现事务.exe
+D:\CSharp学习\传智播客2012学习\191通过Ado.net实现事务\bin\Debug\191通过Ado.net实现事务.pdb
+D:\CSharp学习\传智播客2012学习\191通过Ado.net实现事务\obj\Debug\191通过Ado.net实现事务.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\191通过Ado.net实现事务\obj\Debug\191通过Ado.net实现事务.exe
+D:\CSharp学习\传智播客2012学习\191通过Ado.net实现事务\obj\Debug\191通过Ado.net实现事务.pdb

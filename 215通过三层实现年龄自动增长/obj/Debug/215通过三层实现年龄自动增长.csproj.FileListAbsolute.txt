@@ -1,0 +1,8 @@
+D:\CSharp学习\传智播客2012学习\215通过三层实现年龄自动增长\bin\Debug\215通过三层实现年龄自动增长.exe.config
+D:\CSharp学习\传智播客2012学习\215通过三层实现年龄自动增长\bin\Debug\215通过三层实现年龄自动增长.exe
+D:\CSharp学习\传智播客2012学习\215通过三层实现年龄自动增长\bin\Debug\215通过三层实现年龄自动增长.pdb
+D:\CSharp学习\传智播客2012学习\215通过三层实现年龄自动增长\obj\Debug\_215通过三层实现年龄自动增长.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\215通过三层实现年龄自动增长\obj\Debug\_215通过三层实现年龄自动增长.UI.frmIncAge.resources
+D:\CSharp学习\传智播客2012学习\215通过三层实现年龄自动增长\obj\Debug\215通过三层实现年龄自动增长.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\215通过三层实现年龄自动增长\obj\Debug\215通过三层实现年龄自动增长.exe
+D:\CSharp学习\传智播客2012学习\215通过三层实现年龄自动增长\obj\Debug\215通过三层实现年龄自动增长.pdb

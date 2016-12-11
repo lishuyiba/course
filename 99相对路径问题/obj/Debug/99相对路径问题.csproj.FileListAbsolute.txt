@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\99相对路径问题\bin\Debug\99相对路径问题.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\99相对路径问题\bin\Debug\99相对路径问题.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\99相对路径问题\bin\Debug\99相对路径问题.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\99相对路径问题\obj\Debug\_99相对路径问题.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\99相对路径问题\obj\Debug\_99相对路径问题.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\99相对路径问题\obj\Debug\99相对路径问题.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\99相对路径问题\obj\Debug\99相对路径问题.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\99相对路径问题\obj\Debug\99相对路径问题.pdb
+D:\CSharp学习\传智播客2012学习\99相对路径问题\bin\Debug\99相对路径问题.exe.config
+D:\CSharp学习\传智播客2012学习\99相对路径问题\bin\Debug\99相对路径问题.exe
+D:\CSharp学习\传智播客2012学习\99相对路径问题\bin\Debug\99相对路径问题.pdb
+D:\CSharp学习\传智播客2012学习\99相对路径问题\obj\Debug\_99相对路径问题.Form1.resources
+D:\CSharp学习\传智播客2012学习\99相对路径问题\obj\Debug\_99相对路径问题.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\99相对路径问题\obj\Debug\99相对路径问题.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\99相对路径问题\obj\Debug\99相对路径问题.exe
+D:\CSharp学习\传智播客2012学习\99相对路径问题\obj\Debug\99相对路径问题.pdb

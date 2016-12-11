@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\17继承练习二\bin\Debug\17继承练习二.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\17继承练习二\bin\Debug\17继承练习二.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\17继承练习二\bin\Debug\17继承练习二.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\17继承练习二\obj\Debug\17继承练习二.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\17继承练习二\obj\Debug\17继承练习二.pdb
+D:\CSharp学习\传智播客2012学习\17继承练习二\bin\Debug\17继承练习二.exe.config
+D:\CSharp学习\传智播客2012学习\17继承练习二\bin\Debug\17继承练习二.exe
+D:\CSharp学习\传智播客2012学习\17继承练习二\bin\Debug\17继承练习二.pdb
+D:\CSharp学习\传智播客2012学习\17继承练习二\obj\Debug\17继承练习二.exe
+D:\CSharp学习\传智播客2012学习\17继承练习二\obj\Debug\17继承练习二.pdb

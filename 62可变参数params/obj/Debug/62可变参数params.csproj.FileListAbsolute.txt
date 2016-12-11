@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\62可变参数params\bin\Debug\62可变参数params.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\62可变参数params\bin\Debug\62可变参数params.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\62可变参数params\bin\Debug\62可变参数params.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\62可变参数params\obj\Debug\62可变参数params.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\62可变参数params\obj\Debug\62可变参数params.pdb
+D:\CSharp学习\传智播客2012学习\62可变参数params\bin\Debug\62可变参数params.exe.config
+D:\CSharp学习\传智播客2012学习\62可变参数params\bin\Debug\62可变参数params.exe
+D:\CSharp学习\传智播客2012学习\62可变参数params\bin\Debug\62可变参数params.pdb
+D:\CSharp学习\传智播客2012学习\62可变参数params\obj\Debug\62可变参数params.exe
+D:\CSharp学习\传智播客2012学习\62可变参数params\obj\Debug\62可变参数params.pdb

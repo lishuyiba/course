@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\12对象初始化器\bin\Debug\12对象初始化器.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\12对象初始化器\bin\Debug\12对象初始化器.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\12对象初始化器\bin\Debug\12对象初始化器.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\12对象初始化器\obj\Debug\12对象初始化器.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\12对象初始化器\obj\Debug\12对象初始化器.pdb
+D:\CSharp学习\传智播客2012学习\12对象初始化器\bin\Debug\12对象初始化器.exe.config
+D:\CSharp学习\传智播客2012学习\12对象初始化器\bin\Debug\12对象初始化器.exe
+D:\CSharp学习\传智播客2012学习\12对象初始化器\bin\Debug\12对象初始化器.pdb
+D:\CSharp学习\传智播客2012学习\12对象初始化器\obj\Debug\12对象初始化器.exe
+D:\CSharp学习\传智播客2012学习\12对象初始化器\obj\Debug\12对象初始化器.pdb

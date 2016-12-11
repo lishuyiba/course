@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\120从邮箱提取用户名和域名\bin\Debug\120从邮箱提取用户名和域名.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\120从邮箱提取用户名和域名\bin\Debug\120从邮箱提取用户名和域名.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\120从邮箱提取用户名和域名\bin\Debug\120从邮箱提取用户名和域名.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\120从邮箱提取用户名和域名\obj\Debug\120从邮箱提取用户名和域名.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\120从邮箱提取用户名和域名\obj\Debug\120从邮箱提取用户名和域名.pdb
+D:\CSharp学习\传智播客2012学习\120从邮箱提取用户名和域名\bin\Debug\120从邮箱提取用户名和域名.exe.config
+D:\CSharp学习\传智播客2012学习\120从邮箱提取用户名和域名\bin\Debug\120从邮箱提取用户名和域名.exe
+D:\CSharp学习\传智播客2012学习\120从邮箱提取用户名和域名\bin\Debug\120从邮箱提取用户名和域名.pdb
+D:\CSharp学习\传智播客2012学习\120从邮箱提取用户名和域名\obj\Debug\120从邮箱提取用户名和域名.exe
+D:\CSharp学习\传智播客2012学习\120从邮箱提取用户名和域名\obj\Debug\120从邮箱提取用户名和域名.pdb

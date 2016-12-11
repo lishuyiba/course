@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02反射中德一个核心类Type类\bin\Debug\02反射中德一个核心类Type类.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02反射中德一个核心类Type类\bin\Debug\02反射中德一个核心类Type类.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02反射中德一个核心类Type类\bin\Debug\02反射中德一个核心类Type类.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02反射中德一个核心类Type类\obj\Debug\02反射中德一个核心类Type类.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\02反射中德一个核心类Type类\obj\Debug\02反射中德一个核心类Type类.pdb
+D:\CSharp学习\传智播客2012学习\02反射中德一个核心类Type类\bin\Debug\02反射中德一个核心类Type类.exe.config
+D:\CSharp学习\传智播客2012学习\02反射中德一个核心类Type类\bin\Debug\02反射中德一个核心类Type类.exe
+D:\CSharp学习\传智播客2012学习\02反射中德一个核心类Type类\bin\Debug\02反射中德一个核心类Type类.pdb
+D:\CSharp学习\传智播客2012学习\02反射中德一个核心类Type类\obj\Debug\02反射中德一个核心类Type类.exe
+D:\CSharp学习\传智播客2012学习\02反射中德一个核心类Type类\obj\Debug\02反射中德一个核心类Type类.pdb

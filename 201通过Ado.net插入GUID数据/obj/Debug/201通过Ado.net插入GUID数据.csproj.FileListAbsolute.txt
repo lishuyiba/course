@@ -1,0 +1,5 @@
+D:\CSharp学习\传智播客2012学习\201通过Ado.net插入GUID数据\bin\Debug\201通过Ado.net插入GUID数据.exe.config
+D:\CSharp学习\传智播客2012学习\201通过Ado.net插入GUID数据\bin\Debug\201通过Ado.net插入GUID数据.exe
+D:\CSharp学习\传智播客2012学习\201通过Ado.net插入GUID数据\bin\Debug\201通过Ado.net插入GUID数据.pdb
+D:\CSharp学习\传智播客2012学习\201通过Ado.net插入GUID数据\obj\Debug\201通过Ado.net插入GUID数据.exe
+D:\CSharp学习\传智播客2012学习\201通过Ado.net插入GUID数据\obj\Debug\201通过Ado.net插入GUID数据.pdb

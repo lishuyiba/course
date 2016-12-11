@@ -1,0 +1,19 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\186添加类别\bin\Debug\186添加类别.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\186添加类别\obj\Debug\_186添加类别.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\186添加类别\obj\Debug\186添加类别.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\186添加类别\bin\Debug\186添加类别.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\186添加类别\bin\Debug\186添加类别.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\186添加类别\obj\Debug\_186添加类别.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\186添加类别\obj\Debug\186添加类别.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\186添加类别\obj\Debug\186添加类别.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\186添加类别\obj\Debug\_186添加类别.Form2.resources
+D:\CSharp学习\传智播客2012学习\186添加类别\bin\Debug\186添加类别.exe.config
+D:\CSharp学习\传智播客2012学习\186添加类别\bin\Debug\186添加类别.exe
+D:\CSharp学习\传智播客2012学习\186添加类别\bin\Debug\186添加类别.pdb
+D:\CSharp学习\传智播客2012学习\186添加类别\obj\Debug\186添加类别.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\186添加类别\obj\Debug\_186添加类别.Form1.resources
+D:\CSharp学习\传智播客2012学习\186添加类别\obj\Debug\_186添加类别.Form2.resources
+D:\CSharp学习\传智播客2012学习\186添加类别\obj\Debug\_186添加类别.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\186添加类别\obj\Debug\186添加类别.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\186添加类别\obj\Debug\186添加类别.exe
+D:\CSharp学习\传智播客2012学习\186添加类别\obj\Debug\186添加类别.pdb

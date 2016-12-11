@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\102文件读取到内存中\bin\Debug\102文件读取到内存中.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\102文件读取到内存中\bin\Debug\102文件读取到内存中.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\102文件读取到内存中\bin\Debug\102文件读取到内存中.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\102文件读取到内存中\obj\Debug\102文件读取到内存中.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\102文件读取到内存中\obj\Debug\102文件读取到内存中.pdb
+D:\CSharp学习\传智播客2012学习\102文件读取到内存中\bin\Debug\102文件读取到内存中.exe.config
+D:\CSharp学习\传智播客2012学习\102文件读取到内存中\bin\Debug\102文件读取到内存中.exe
+D:\CSharp学习\传智播客2012学习\102文件读取到内存中\bin\Debug\102文件读取到内存中.pdb
+D:\CSharp学习\传智播客2012学习\102文件读取到内存中\obj\Debug\102文件读取到内存中.exe
+D:\CSharp学习\传智播客2012学习\102文件读取到内存中\obj\Debug\102文件读取到内存中.pdb

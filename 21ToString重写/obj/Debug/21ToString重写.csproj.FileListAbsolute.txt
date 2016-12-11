@@ -1,0 +1,13 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\21ToString重写\bin\Debug\21ToString重写.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\21ToString重写\bin\Debug\21ToString重写.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\21ToString重写\bin\Debug\21ToString重写.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\21ToString重写\obj\Debug\21ToString重写.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\21ToString重写\obj\Debug\21ToString重写.pdb
+D:\C#学习\传智播客2012学习\21ToString重写\bin\Debug\21ToString重写.exe.config
+D:\C#学习\传智播客2012学习\21ToString重写\obj\Debug\21ToString重写.exe
+D:\C#学习\传智播客2012学习\21ToString重写\obj\Debug\21ToString重写.pdb
+D:\CSharp学习\传智播客2012学习\21ToString重写\bin\Debug\21ToString重写.exe.config
+D:\CSharp学习\传智播客2012学习\21ToString重写\bin\Debug\21ToString重写.exe
+D:\CSharp学习\传智播客2012学习\21ToString重写\bin\Debug\21ToString重写.pdb
+D:\CSharp学习\传智播客2012学习\21ToString重写\obj\Debug\21ToString重写.exe
+D:\CSharp学习\传智播客2012学习\21ToString重写\obj\Debug\21ToString重写.pdb

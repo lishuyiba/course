@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\31抽象案例二\bin\Debug\31抽象案例二.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\31抽象案例二\bin\Debug\31抽象案例二.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\31抽象案例二\bin\Debug\31抽象案例二.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\31抽象案例二\obj\Debug\31抽象案例二.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\31抽象案例二\obj\Debug\31抽象案例二.pdb
+D:\CSharp学习\传智播客2012学习\31抽象案例二\bin\Debug\31抽象案例二.exe.config
+D:\CSharp学习\传智播客2012学习\31抽象案例二\bin\Debug\31抽象案例二.exe
+D:\CSharp学习\传智播客2012学习\31抽象案例二\bin\Debug\31抽象案例二.pdb
+D:\CSharp学习\传智播客2012学习\31抽象案例二\obj\Debug\31抽象案例二.exe
+D:\CSharp学习\传智播客2012学习\31抽象案例二\obj\Debug\31抽象案例二.pdb

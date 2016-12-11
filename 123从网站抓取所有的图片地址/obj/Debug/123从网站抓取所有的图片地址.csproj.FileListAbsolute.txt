@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\123从网站抓取所有的图片地址\bin\Debug\123从网站抓取所有的图片地址.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\123从网站抓取所有的图片地址\bin\Debug\123从网站抓取所有的图片地址.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\123从网站抓取所有的图片地址\bin\Debug\123从网站抓取所有的图片地址.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\123从网站抓取所有的图片地址\obj\Debug\123从网站抓取所有的图片地址.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\123从网站抓取所有的图片地址\obj\Debug\123从网站抓取所有的图片地址.pdb
+D:\CSharp学习\传智播客2012学习\123从网站抓取所有的图片地址\bin\Debug\123从网站抓取所有的图片地址.exe.config
+D:\CSharp学习\传智播客2012学习\123从网站抓取所有的图片地址\bin\Debug\123从网站抓取所有的图片地址.exe
+D:\CSharp学习\传智播客2012学习\123从网站抓取所有的图片地址\bin\Debug\123从网站抓取所有的图片地址.pdb
+D:\CSharp学习\传智播客2012学习\123从网站抓取所有的图片地址\obj\Debug\123从网站抓取所有的图片地址.exe
+D:\CSharp学习\传智播客2012学习\123从网站抓取所有的图片地址\obj\Debug\123从网站抓取所有的图片地址.pdb

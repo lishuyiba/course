@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\CAGetMax\bin\Debug\CAGetMax.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\CAGetMax\bin\Debug\CAGetMax.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\CAGetMax\bin\Debug\CAGetMax.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\CAGetMax\bin\Debug\ClsMaxLib.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\CAGetMax\bin\Debug\ClsMaxLib.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\CAGetMax\obj\Debug\CAGetMax.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\CAGetMax\obj\Debug\CAGetMax.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\CAGetMax\obj\Debug\CAGetMax.pdb
+D:\CSharp学习\传智播客2012学习\CAGetMax\bin\Debug\CAGetMax.exe.config
+D:\CSharp学习\传智播客2012学习\CAGetMax\bin\Debug\CAGetMax.exe
+D:\CSharp学习\传智播客2012学习\CAGetMax\bin\Debug\CAGetMax.pdb
+D:\CSharp学习\传智播客2012学习\CAGetMax\bin\Debug\ClsMaxLib.dll
+D:\CSharp学习\传智播客2012学习\CAGetMax\bin\Debug\ClsMaxLib.pdb
+D:\CSharp学习\传智播客2012学习\CAGetMax\obj\Debug\CAGetMax.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\CAGetMax\obj\Debug\CAGetMax.exe
+D:\CSharp学习\传智播客2012学习\CAGetMax\obj\Debug\CAGetMax.pdb

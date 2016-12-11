@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\107文本文件乱码\bin\Debug\107文本文件乱码.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\107文本文件乱码\bin\Debug\107文本文件乱码.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\107文本文件乱码\bin\Debug\107文本文件乱码.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\107文本文件乱码\obj\Debug\107文本文件乱码.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\107文本文件乱码\obj\Debug\107文本文件乱码.pdb
+D:\CSharp学习\传智播客2012学习\107文本文件乱码\bin\Debug\107文本文件乱码.exe.config
+D:\CSharp学习\传智播客2012学习\107文本文件乱码\bin\Debug\107文本文件乱码.exe
+D:\CSharp学习\传智播客2012学习\107文本文件乱码\bin\Debug\107文本文件乱码.pdb
+D:\CSharp学习\传智播客2012学习\107文本文件乱码\obj\Debug\107文本文件乱码.exe
+D:\CSharp学习\传智播客2012学习\107文本文件乱码\obj\Debug\107文本文件乱码.pdb

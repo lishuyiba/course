@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\145通过反射来调用私有成员\bin\Debug\145通过反射来调用私有成员.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\145通过反射来调用私有成员\bin\Debug\145通过反射来调用私有成员.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\145通过反射来调用私有成员\bin\Debug\145通过反射来调用私有成员.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\145通过反射来调用私有成员\obj\Debug\145通过反射来调用私有成员.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\145通过反射来调用私有成员\obj\Debug\145通过反射来调用私有成员.pdb
+D:\CSharp学习\传智播客2012学习\145通过反射来调用私有成员\bin\Debug\145通过反射来调用私有成员.exe.config
+D:\CSharp学习\传智播客2012学习\145通过反射来调用私有成员\obj\Debug\145通过反射来调用私有成员.exe
+D:\CSharp学习\传智播客2012学习\145通过反射来调用私有成员\obj\Debug\145通过反射来调用私有成员.pdb
+D:\CSharp学习\传智播客2012学习\145通过反射来调用私有成员\bin\Debug\145通过反射来调用私有成员.exe
+D:\CSharp学习\传智播客2012学习\145通过反射来调用私有成员\bin\Debug\145通过反射来调用私有成员.pdb

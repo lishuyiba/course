@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\153解析订单xml\bin\Debug\153解析订单xml.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\153解析订单xml\bin\Debug\153解析订单xml.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\153解析订单xml\bin\Debug\153解析订单xml.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\153解析订单xml\obj\Debug\153解析订单xml.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\153解析订单xml\obj\Debug\153解析订单xml.pdb
+D:\CSharp学习\传智播客2012学习\153解析订单xml\bin\Debug\153解析订单xml.exe.config
+D:\CSharp学习\传智播客2012学习\153解析订单xml\bin\Debug\153解析订单xml.exe
+D:\CSharp学习\传智播客2012学习\153解析订单xml\bin\Debug\153解析订单xml.pdb
+D:\CSharp学习\传智播客2012学习\153解析订单xml\obj\Debug\153解析订单xml.exe
+D:\CSharp学习\传智播客2012学习\153解析订单xml\obj\Debug\153解析订单xml.pdb

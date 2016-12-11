@@ -1,0 +1,8 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\TestLib\bin\Debug\TestLib.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\TestLib\bin\Debug\TestLib.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\TestLib\obj\Debug\TestLib.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\TestLib\obj\Debug\TestLib.pdb
+D:\CSharp学习\传智播客2012学习\TestLib\bin\Debug\TestLib.dll
+D:\CSharp学习\传智播客2012学习\TestLib\bin\Debug\TestLib.pdb
+D:\CSharp学习\传智播客2012学习\TestLib\obj\Debug\TestLib.dll
+D:\CSharp学习\传智播客2012学习\TestLib\obj\Debug\TestLib.pdb

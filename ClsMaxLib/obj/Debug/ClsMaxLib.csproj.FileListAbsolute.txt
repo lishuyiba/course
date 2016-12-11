@@ -1,0 +1,8 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ClsMaxLib\bin\Debug\ClsMaxLib.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ClsMaxLib\bin\Debug\ClsMaxLib.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ClsMaxLib\obj\Debug\ClsMaxLib.dll
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\ClsMaxLib\obj\Debug\ClsMaxLib.pdb
+D:\CSharp学习\传智播客2012学习\ClsMaxLib\bin\Debug\ClsMaxLib.dll
+D:\CSharp学习\传智播客2012学习\ClsMaxLib\bin\Debug\ClsMaxLib.pdb
+D:\CSharp学习\传智播客2012学习\ClsMaxLib\obj\Debug\ClsMaxLib.dll
+D:\CSharp学习\传智播客2012学习\ClsMaxLib\obj\Debug\ClsMaxLib.pdb

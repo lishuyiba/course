@@ -1,0 +1,12 @@
+D:\C#学习\传智播客2012学习\220通过程序来发邮件\bin\Debug\220通过程序来发邮件.exe.config
+D:\C#学习\传智播客2012学习\220通过程序来发邮件\bin\Debug\220通过程序来发邮件.exe
+D:\C#学习\传智播客2012学习\220通过程序来发邮件\bin\Debug\220通过程序来发邮件.pdb
+D:\C#学习\传智播客2012学习\220通过程序来发邮件\obj\Debug\220通过程序来发邮件.csprojResolveAssemblyReference.cache
+D:\C#学习\传智播客2012学习\220通过程序来发邮件\obj\Debug\220通过程序来发邮件.exe
+D:\C#学习\传智播客2012学习\220通过程序来发邮件\obj\Debug\220通过程序来发邮件.pdb
+D:\CSharp学习\传智播客2012学习\220通过程序来发邮件\bin\Debug\220通过程序来发邮件.exe.config
+D:\CSharp学习\传智播客2012学习\220通过程序来发邮件\bin\Debug\220通过程序来发邮件.exe
+D:\CSharp学习\传智播客2012学习\220通过程序来发邮件\bin\Debug\220通过程序来发邮件.pdb
+D:\CSharp学习\传智播客2012学习\220通过程序来发邮件\obj\Debug\220通过程序来发邮件.csprojResolveAssemblyReference.cache
+D:\CSharp学习\传智播客2012学习\220通过程序来发邮件\obj\Debug\220通过程序来发邮件.exe
+D:\CSharp学习\传智播客2012学习\220通过程序来发邮件\obj\Debug\220通过程序来发邮件.pdb

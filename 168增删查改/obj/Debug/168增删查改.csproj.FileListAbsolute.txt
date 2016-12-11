@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\168增删查改\bin\Debug\168增删查改.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\168增删查改\bin\Debug\168增删查改.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\168增删查改\bin\Debug\168增删查改.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\168增删查改\obj\Debug\_168增删查改.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\168增删查改\obj\Debug\_168增删查改.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\168增删查改\obj\Debug\168增删查改.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\168增删查改\obj\Debug\168增删查改.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\传智播客2012学习\168增删查改\obj\Debug\168增删查改.pdb
+D:\CSharp学习\传智播客2012学习\168增删查改\bin\Debug\168增删查改.exe.config
+D:\CSharp学习\传智播客2012学习\168增删查改\bin\Debug\168增删查改.exe
+D:\CSharp学习\传智播客2012学习\168增删查改\bin\Debug\168增删查改.pdb
+D:\CSharp学习\传智播客2012学习\168增删查改\obj\Debug\_168增删查改.Form1.resources
+D:\CSharp学习\传智播客2012学习\168增删查改\obj\Debug\_168增删查改.Properties.Resources.resources
+D:\CSharp学习\传智播客2012学习\168增删查改\obj\Debug\168增删查改.csproj.GenerateResource.Cache
+D:\CSharp学习\传智播客2012学习\168增删查改\obj\Debug\168增删查改.exe
+D:\CSharp学习\传智播客2012学习\168增删查改\obj\Debug\168增删查改.pdb
